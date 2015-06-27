@@ -16,10 +16,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 | :star2: | Popular |
 | :art: | Exceptional design |
 | :small_blue_diamond: | Has option for JSON output |
+| :speech_balloon: | Includes languages other than English |
 
 
 ## Practical
 
+* [Blind Text Generator](http://www.blindtextgenerator.com/lorem-ipsum) - Choose from various flavors of traditional dummy text. :bento: :speech_balloon:
 * [Lorem Ipsum](http://www.lipsum.com/) - The Original.
 * [Not Lorem Ipsum](http://notloremipsum.com/) - Prewritten filler that is also industry-specific.
 * [HTML-ipsum](http://html-ipsum.com/) - Provides pre-filled HTML patterns.
@@ -51,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Beck Ipsum](http://beckipsum.com/) - Mellow gold placeholder text for losers.
 * [Busey Ipsum](http://www.buseyipsum.com/) - Featuring Gary Busey.
 * [Justin Bieber Ipsum](http://www.jbipsum.com/) - It's a Bieber world live it or die.
+* [Mussum Ipsum](http://mussumipsum.com/) - In Portuguese. :speech_balloon:
 * [Nietzsche Ipsum](http://nietzsche-ipsum.com/) - Ecce Ipsum.
 * [Obama Ipsum](http://obamaipsum.com/) - Yes we can.
 * [Sagan Ipsum](http://saganipsum.com/) - Featuring American scientist and author Carl Sagan.
@@ -85,11 +88,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Mainer Ipsum](http://maineripsum.com/) - I guess they talk like this in Maine.
 * [Pirate Ipsum](http://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea! :art:
 * [Poppy Ipsum](http://www.pommyipsum.com/) - The official lorem ipsum filler text generator of the British Empire.
-* [T'Lipsum](http://tlipsum.appspot.com/) - A Yorkshire-flavored generator :octocat:
+* [T'Lipsum](http://tlipsum.appspot.com/) - A Yorkshire-flavored generator. :octocat:
 
 
 ### Literature
 
+* [Bible Ipsum](http://bibleipsum.free.fr/) - Featuring the American Standard Version of the Holy Bible.
 * [Fifty Shades Ipsum](http://www.fiftyshadesgenerator.com/) - Raunchy ipsum. Doubles as an erotic fiction generator.
 * [Fillerati](http://www.fillerati.com/) - Pulls full text from Project Gutenburg. :bento:
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
@@ -100,7 +104,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Ancient Alien Ipsum](http://ancientalienipsum.com/) - The Ipsum of the Mayans.
 * [Corporate Ipsum](http://www.cipsum.com/)
-* [Mussum Ipsum](http://mussumipsum.com/) - In Portuguese. [Non-english option]
 * [Online Dating Ipsum](http://laurenhallden.com/datingipsum/) - Because most profiles are just word soup anyway.
 * ~~[Quote Ipsum](http://quoteipsum.com/)~~ :no_entry:
 * [Space Ipsum](http://spaceipsum.com/) - Space-themed generator.
@@ -157,5 +160,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * Add TOC
 * Further categorize with tags
-* Link-checking function?
+* Link-checking function to prune dead links?
 * Add references to more plugins and tools
+* Add instructions for contributing
