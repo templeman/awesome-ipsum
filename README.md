@@ -1,6 +1,11 @@
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
+> A curated list of awesome lorem ipsum generators.
+
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+
 ## Legend
+*Not all generators are created equal. Generators that have certain interesting features are marked with an emoji from the table below.*
 
 | Icon  | Attribute |
 | ------------- | ------------- |
