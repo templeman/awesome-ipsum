@@ -13,7 +13,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 | :bento: | Options to choose from multiple sources |
 | :no_entry: | Generator is broken/unavailable |
 | :satellite:  | API |
-| :no_good: | NSFW |
 | :star2: | Popular |
 | :art: | Exceptional design |
 | :small_blue_diamond: | Has option for JSON output |
@@ -91,7 +90,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Literature
 
-* [Fifty Shades Ipsum](http://www.fiftyshadesgenerator.com/) - Raunchy ipsum. Doubles as an erotic fiction generator. :no_good:
+* [Fifty Shades Ipsum](http://www.fiftyshadesgenerator.com/) - Raunchy ipsum. Doubles as an erotic fiction generator.
 * [Fillerati](http://www.fillerati.com/) - Pulls full text from Project Gutenburg. :bento:
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
 * [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
@@ -105,7 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Online Dating Ipsum](http://laurenhallden.com/datingipsum/) - Because most profiles are just word soup anyway.
 * ~~[Quote Ipsum](http://quoteipsum.com/)~~ :no_entry:
 * [Space Ipsum](http://spaceipsum.com/) - Space-themed generator.
-* [Subliminal Lorem Ipsum](http://www.loremipsumgenerator.co.uk/) - Offers option to pepper original lorem ipsum with several irreverent flavors of phrases. :bento: :no_good:
+* [Subliminal Lorem Ipsum](http://www.loremipsumgenerator.co.uk/) - Offers option to pepper original lorem ipsum with several irreverent flavors of phrases. :bento:
 * [Trollem Ipsum](http://trollemipsum.appspot.com/) - Generates different results based on your relationship with Apple. :satellite:
 * [White Space Ipsum](http://whitespaceipsum.com/) - Placeholder text guaranteed not to distract from your design (only generates blank space). [Markup options]
 
