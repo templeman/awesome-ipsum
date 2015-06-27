@@ -90,7 +90,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Gangsta Lorem Ipsum](http://lorizzle.nl/) - Fo shizzle.
 * [Hacker Ipsum](http://hackeripsum.com/) - Hack the pentagon? (y/n):
 * [Hipster Ipsum](http://hipsum.co/) - Artisanal filler text for your site or project.
-* [Bogan Ipsum](http://boganipsum.com/) - This is apparently an Australian/New Zealand slang term for a boorish person https://en.wikipedia.org/wiki/Bogan.
+* [Bogan Ipsum](http://boganipsum.com/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
 * [Hippie Ipsum](http://www.hippieipsum.me/) - Not to be confused with the popular Hipster Ipsum.
 * [Kiwipsum](http://kiwipsum.com/) - From NZ.
 * [Mainer Ipsum](http://maineripsum.com/) - I guess they talk like this in Maine.
@@ -121,7 +121,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * ~~[Quote Ipsum](http://quoteipsum.com/)~~ :no_entry:
 * [Space Ipsum](http://spaceipsum.com/) - Space-themed generator.
 * [Star Trek Ipsum](http://star-trek-ipsum.meetpollux.com/) - Like it sounds. :octocat: Markup options
-* [Subliminal Lorem Ipsum](http://www.loremipsumgenerator.co.uk/) - Offers option to pepper original lorem ipsum with several irreverent flavors of phrases. :no_good:
+* [Subliminal Lorem Ipsum](http://www.loremipsumgenerator.co.uk/) - Offers option to pepper original lorem ipsum with several irreverent flavors of phrases. :bento: :no_good:
 * [T'Lipsum](http://tlipsum.appspot.com/) - A Yorkshire-flavored generator :octocat:
 * [Trollem Ipsum](http://trollemipsum.appspot.com/) - Generates different results based on your relationship with Apple. :satellite:
 * [White Space Ipsum](http://whitespaceipsum.com/) - Placeholder text guaranteed not to distract from your design (only generates blank space). [Markup options]
