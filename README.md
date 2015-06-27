@@ -48,7 +48,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Famous Individuals
 
-* [Batman Ipsum](http://batman-ipsum.com/) - Didn't you get the memo?
+* [Batman Ipsum](http://batman-ipsum.com/) - Featuring multiple characters from the latest Batman films. :bento:
+* [Beck Ipsum](http://beckipsum.com/) - Mellow gold placeholder text for losers.
 * [Borat Ipsum](http://boratipsum.com/) - For Make Benefit Glorious Nation of Kazakhstan.
 * [Better Ipsum Saul!](http://betteripsumsaul.com/) - Featuring Saul Goodman.
 * [Bluth Ipsum](http://bluthipsum.com/) - Featuring the family from Arrested Development.
