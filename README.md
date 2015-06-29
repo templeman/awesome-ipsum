@@ -29,8 +29,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Ipsum.me](http://www.ipsum.me/) - Specializes in generating fake profile information. :art:
 * [Jipsum](http://jipsum.com/) - Randomized lorem ipsum.
 * [Legal Ipsum](http://legalipsum.com/) - Generates garbled legalese (or just regular legalese, really).
+* [Lorem 2](http://www.lorem2.com/) - Static lorem ipsum.
 * [Lorem Ipsum](http://www.lipsum.com/) - The Original.
+* [Lorem Ipsum 2.0](http://lipsum.ahyeah.nl/) - Dynamically sourced from social media, but appears a bit broken.
 * [Lorem Ipsum Generator](http://www.ipsum-generator.com/) - Standard lorem ipsum, with options to add `<i>` tags or `<b>` tags.
+* [Lorem Ipsum Generator](http://www.loremipsumgenerator.org/) - Generates standard lorem ipsum.
+* [Loripsum](http://www.loripsum.net/) - Full-featured generator of standard lorem ipsum. :satellite:
+* [Meta Lipsum](http://metalipsum.sherred.com/) - Option to infuse standard lorem ipsum with custom keywords.
 * [Not Lorem Ipsum](http://notloremipsum.com/) - Prewritten filler that is also industry-specific.
 * [HTML-ipsum](http://html-ipsum.com/) - Provides pre-filled HTML patterns.
 * [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
@@ -108,6 +113,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Hippie Ipsum](http://www.hippieipsum.me/) - Not to be confused with the popular Hipster Ipsum.
 * [Kiwipsum](http://kiwipsum.com/) - From NZ.
 * [Mainer Ipsum](http://maineripsum.com/) - I guess they talk like this in Maine.
+* [Melbourne Ipsum](http://www.melbourneipsum.com.au/) - The ipsum of Melbourne, Australia.
 * [Pirate Ipsum](http://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea! :art:
 * [Pommy Ipsum](http://www.pommyipsum.com/) - The official lorem ipsum filler text generator of the British Empire.
 * [T'Lipsum](http://tlipsum.appspot.com/) - A Yorkshire-flavored generator. :octocat:
@@ -133,10 +139,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [DND Ipsum](http://dndipsum.com/) - Lorem ipsum for lazy dungeon masters.
 * [Emo Ipsum](http://emoipsum.com/) - Misunderstood, tormented dummy text in tight jeans.
 * [Fucking Ipsum](http://www.fuipsum.com/) - Angry ipsum.
-* [Gag Ipsum](http://www.gagipsum.com/) - Sourced from pop culture.
+* [Gag Ipsum](http://www.gagipsum.com/) - Sourced from general pop culture.
 * [Hairy Lipsum](http://hairylipsum.com/) - Is your Latin lacking a certain rugged handsomeness? :art:
 * [Ipsum Generator](http://ipsum.ecxol.net/) - Offers option to pepper original lorem ipsum with different flavoring. :bento:
-* [Jony Ipsum](http://jonyipsum.com/) - Static block of Apple-related text. Not a real generator.
+* [Jony Ipsum](http://jonyipsum.com/) - Static block of Apple-flavored text. Not a real generator.
+* [Metaphorpsum](http://metaphorpsum.com/) - A wise– if perhaps slightly pedantic– generator of metaphor. :octocat: :satellite:
 * [Online Dating Ipsum](http://laurenhallden.com/datingipsum/) - Because most profiles are just word soup anyway.
 * ~~[Quote Ipsum](http://quoteipsum.com/)~~ :no_entry:
 * [Space Ipsum](http://spaceipsum.com/) - Space-themed generator.
@@ -171,6 +178,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Lebowski Ipsum](http://www.lebowskiipsum.com/) - How many paragraphs, man? :satellite: :art:
 * [Malevole](http://www.malevole.com/mv/misc/text/) - Featuring TV theme songs.
 * [Marvel Ipsum](http://www.marvelipsum.com) - Featuring text and images from Marvel comics. [Markup options, Special: includes options for generating SQL or JSON]
+* [Minions Ipsum](http://www.minionsipsum.com/) - Ipsum in the style of the Minions from the "Despicable Me" films.
 * [Picksum Ipsum](http://www.picksumipsum.co.uk/) :bento: :art:
 * [PokéIpsum](http://nyarth.net/ipsum/) - Based on Pokémon.
 * [Riker Ipsum](http://www.rikeripsum.com) - Featuring the officer from Star Trek.
@@ -191,7 +199,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## References
 
 * http://ipsum-generators.com/
-* http://idsgn.dropmark.com/107
 
 
 ## TODO
