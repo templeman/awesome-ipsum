@@ -30,7 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Jipsum](http://jipsum.com/) - Randomized lorem ipsum.
 * [Legal Ipsum](http://legalipsum.com/) - Generates garbled legalese (or just regular legalese, really).
 * [Lorem Ipsum](http://www.lipsum.com/) - The Original.
-* [Lorem Ipsum Generator](http://www.ipsum-generator.com/) - Standard lorem ipsum, with options to add <i> tags or <b> tags.
+* [Lorem Ipsum Generator](http://www.ipsum-generator.com/) - Standard lorem ipsum, with options to add `<i>` tags or `<b>` tags.
 * [Not Lorem Ipsum](http://notloremipsum.com/) - Prewritten filler that is also industry-specific.
 * [HTML-ipsum](http://html-ipsum.com/) - Provides pre-filled HTML patterns.
 * [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
