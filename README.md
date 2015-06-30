@@ -1,4 +1,4 @@
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+# Lorem ipsum, dolor sit amet.
 
 > A curated list of awesome lorem ipsum generators.
 
