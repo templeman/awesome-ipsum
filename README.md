@@ -36,7 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Lorem Ipsum Generator](http://www.loremipsumgenerator.org/) - Generates standard lorem ipsum.
 * [Loripsum](http://www.loripsum.net/) - Full-featured generator of standard lorem ipsum. :satellite:
 * [Meta Lipsum](http://metalipsum.sherred.com/) - Option to infuse standard lorem ipsum with custom keywords.
-* [Not Lorem Ipsum](http://notloremipsum.com/) - Prewritten filler that is also industry-specific.
+* [Not Lorem Ipsum](http://notloremipsum.com/) - Prewritten filler that is also industry-specific. :bento:
 * [HTML-ipsum](http://html-ipsum.com/) - Provides pre-filled HTML patterns.
 * [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
 * [Lorem Markdown](http://jaspervdj.be/lorem-markdownum/) - Generates text structured with markdown. :satellite: :octocat:
@@ -71,6 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Nietzsche Ipsum](http://nietzsche-ipsum.com/) - Ecce Ipsum.
 * [Obama Ipsum](http://obamaipsum.com/) - Yes we can.
 * [Sagan Ipsum](http://saganipsum.com/) - Featuring American scientist and author Carl Sagan.
+* [Savage Ipsum](http://www.savageipsum.com/) - Featuring former pro wrestler Randy Savage. Oooh yeah! :satellite:
 * [The Vatican Assassin](http://vaticanassass.in/) - Featuring quotes from Charlie Sheen.
 * [Whedon Ipsum](http://www.commercekitchen.com/whedon-ipsum/) - Featuring Joss Whedon.
 
@@ -114,8 +115,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Kiwipsum](http://kiwipsum.com/) - From NZ.
 * [Mainer Ipsum](http://maineripsum.com/) - I guess they talk like this in Maine.
 * [Melbourne Ipsum](http://www.melbourneipsum.com.au/) - The ipsum of Melbourne, Australia.
+* [Pahu!](http://www.pahu.maori.nz/) - The Māori text generator with Bang!
 * [Pirate Ipsum](http://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea! :art:
 * [Pommy Ipsum](http://www.pommyipsum.com/) - The official lorem ipsum filler text generator of the British Empire.
+* [Quijo Ipsum](http://www.quijotipsum.com/) - Lorem ipsum en Español. :speech_balloon:
 * [T'Lipsum](http://tlipsum.appspot.com/) - A Yorkshire-flavored generator. :octocat:
 
 
@@ -126,6 +129,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Fillerati](http://www.fillerati.com/) - Pulls full text from Project Gutenburg. :bento:
 * [Game of Ipsum](http://www.gameofipsum.com/) - Placeholder text fit for a (precariously enthroned) king. :satellite:
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
+* [Schmipsum](http://www.schmipsum.com/) - Featuring a variety of interesting literary and historical sources. :bento: :satellite:
 * [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
 
 
@@ -142,12 +146,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Gag Ipsum](http://www.gagipsum.com/) - Sourced from general pop culture.
 * [Hairy Lipsum](http://hairylipsum.com/) - Is your Latin lacking a certain rugged handsomeness? :art:
 * [Ipsum Generator](http://ipsum.ecxol.net/) - Offers option to pepper original lorem ipsum with different flavoring. :bento:
-* [Jony Ipsum](http://jonyipsum.com/) - Static block of Apple-flavored text. Not a real generator.
+* [Jony Ipsum](http://jonyipsum.com/) - Static block of Apple-flavored text. Not a generator.
 * [Metaphorpsum](http://metaphorpsum.com/) - A wise– if perhaps slightly pedantic– generator of metaphor. :octocat: :satellite:
+* [Modernipsum](http://www.modernipsum.com/) - An artier lorem ipsum generator.
+* [Monocle Ipsum](http://www.monocleipsum.com/) :octocat:
 * [Online Dating Ipsum](http://laurenhallden.com/datingipsum/) - Because most profiles are just word soup anyway.
 * ~~[Quote Ipsum](http://quoteipsum.com/)~~ :no_entry:
+* [Robot Ipsum](http://www.robotipsum.com/) - Mechanized filler text generator.
+* [SEO Ipsum](http://seoipsum.com/) - Generates white or black-hat-themed filler.
 * [Space Ipsum](http://spaceipsum.com/) - Space-themed generator.
 * [Subliminal Lorem Ipsum](http://www.loremipsumgenerator.co.uk/) - Offers option to pepper original lorem ipsum with several irreverent flavors of phrases. :bento:
+* [Swearem Ipsum](http://www.swearemipsum.com/) - The Latin swear generator.
+* [Time Cube Ipsum](http://www.timecubeipsum.com/) - You can not comprehend the actual ipsum in a single rotation of Earth.
 * [Trollem Ipsum](http://trollemipsum.appspot.com/) - Generates different results based on your relationship with Apple. :satellite:
 * [White Space Ipsum](http://whitespaceipsum.com/) - Placeholder text guaranteed not to distract from your design (only generates blank space). [Markup options]
 
@@ -156,6 +166,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Baseball Ipsum](http://baseballipsum.apphb.com/)
 * [Skate Ipsum](http://skateipsum.com/) :satellite: :octocat: :small_blue_diamond:
+* [Ski Ipsum](http://skipsum.com/) - Shralp the Pow!
 
 
 ### TV and Film
@@ -183,7 +194,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [PokéIpsum](http://nyarth.net/ipsum/) - Based on Pokémon.
 * [Riker Ipsum](http://www.rikeripsum.com) - Featuring the officer from Star Trek.
 * [Samuel L. Ipsum](http://slipsum.com/) - Featuring Samuel L. Jackson. :star2:
+* [Seinfeld Ipsum](http://seinfeldipsum.com/) - The Lorem Ipsum generator about nothing.
+* [Spongebob Ipsum](http://spongebobipsum.com/) - You just lost your brain privileges.
 * [Star Trek Ipsum](http://star-trek-ipsum.meetpollux.com/) - Like it sounds. :octocat: Markup options
+* [Tina Ipsum](http://tinaipsum.rocks/) - Featuring Tina Belcher of Bob's Burgers.
+* [Swanson Ipsum](http://www.swansonipsum.com/) - Features both garbled ipsum as well as straight quotes from Ron Swanson of Parks & Recreation. :octocat: [Has a ruby gem for the Faker library]
 
 
 ### Video Games
