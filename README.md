@@ -51,7 +51,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Cat Ipsum](http://www.catipsum.com/) - Featuring our furry friends.
 * [Catnipsum](http://www.catnipsum.com/) - This cat-themed site includes quite a bit more than just a generator.
 * [Dino Ipsum](http://dinoipsum.herokuapp.com/) - Featuring varieties of scientific dinosaur names. :satellite: :octocat: :small_blue_diamond:
-* [Dino Ipsum](http://dinoipsum.com/) - This one features nothing but dinosaure roars (ROARR WRAAAAO! ROAR! ROAR!).
+* [Dino Ipsum](http://dinoipsum.com/) - This one features nothing but dinosaur roars.
 * [Kitten Ipsum](http://kittenipsum.nodeath.co/) - Not to be confused with Cat Ipsum.
 * [Zombie Ipsum](http://www.zombieipsum.com/) - Braaains! and probably some other words. :art:
 
@@ -101,7 +101,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Geographical and Dialects
 
 * [Bavaria Ipsum](http://bavaria-ipsum.de/)
-* [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Not sure what this is? Possibly referencing city of Bristol in UK.
+* [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Ipsum for Bristolians.
 * [Chiquito Ipsum](http://www.chiquitoipsum.com/) :speech_balloon:
 * [Choice Bro Ipsum](http://choicebroipsum.com/) - NZ-flavored ipsum.
 * [Ebonics Ipsum](http://ebonics-ipsum.com/) - A blacker, more African-American placeholder text.
