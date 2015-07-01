@@ -151,7 +151,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Modernipsum](http://www.modernipsum.com/) - An artier lorem ipsum generator.
 * [Monocle Ipsum](http://www.monocleipsum.com/) :octocat:
 * [Online Dating Ipsum](http://laurenhallden.com/datingipsum/) - Because most profiles are just word soup anyway.
-* ~~[Quote Ipsum](http://quoteipsum.com/)~~ :no_entry:
 * [Robot Ipsum](http://www.robotipsum.com/) - Mechanized filler text generator.
 * [SEO Ipsum](http://seoipsum.com/) - Generates white or black-hat-themed filler.
 * [Space Ipsum](http://spaceipsum.com/) - Space-themed generator.
