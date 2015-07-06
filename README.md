@@ -196,8 +196,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Seinfeld Ipsum](http://seinfeldipsum.com/) - The Lorem Ipsum generator about nothing.
 * [Spongebob Ipsum](http://spongebobipsum.com/) - You just lost your brain privileges.
 * [Star Trek Ipsum](http://star-trek-ipsum.meetpollux.com/) - Like it sounds. :octocat: Markup options
-* [Tina Ipsum](http://tinaipsum.rocks/) - Featuring Tina Belcher of Bob's Burgers.
 * [Swanson Ipsum](http://www.swansonipsum.com/) - Features both garbled ipsum as well as straight quotes from Ron Swanson of Parks & Recreation. :octocat: [Has a ruby gem for the Faker library]
+* [Tina Ipsum](http://tinaipsum.rocks/) - Featuring Tina Belcher of Bob's Burgers.
+* [TV Ipsum](http://tvipsum.com/) - Featuring mashups of classic TV show theme songs.
 
 
 ### Video Games
