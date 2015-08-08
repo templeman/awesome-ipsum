@@ -199,6 +199,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Swanson Ipsum](http://www.swansonipsum.com/) - Features both garbled ipsum as well as straight quotes from Ron Swanson of Parks & Recreation. :octocat: [Has a ruby gem for the Faker library]
 * [Tina Ipsum](http://tinaipsum.rocks/) - Featuring Tina Belcher of Bob's Burgers.
 * [TV Ipsum](http://tvipsum.com/) - Featuring mashups of classic TV show theme songs.
+* [TV Ipsum](http://www.tvipsum.org/) - Featuring mash-ups sourced from a number of hit cartoon or sci-fi TV shows. :bento:
 
 
 ### Video Games
