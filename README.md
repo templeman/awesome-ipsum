@@ -158,6 +158,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Swearem Ipsum](http://www.swearemipsum.com/) - The Latin swear generator.
 * [Time Cube Ipsum](http://www.timecubeipsum.com/) - You can not comprehend the actual ipsum in a single rotation of Earth.
 * [Trollem Ipsum](http://trollemipsum.appspot.com/) - Generates different results based on your relationship with Apple. :satellite:
+* [Twipsum](http://twipsum.net/) - Specify a Twitter account from which to pull ipsum source material on the fly.
 * [White Space Ipsum](http://whitespaceipsum.com/) - Placeholder text guaranteed not to distract from your design (only generates blank space). [Markup options]
 
 
