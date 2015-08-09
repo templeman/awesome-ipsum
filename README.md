@@ -100,7 +100,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Geographical and Dialects
 
-* [Bavaria Ipsum](http://bavaria-ipsum.de/)
+* [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator.
 * [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Ipsum for Bristolians.
 * [Chiquito Ipsum](http://www.chiquitoipsum.com/) :speech_balloon:
 * [Choice Bro Ipsum](http://choicebroipsum.com/) - NZ-flavored ipsum.
