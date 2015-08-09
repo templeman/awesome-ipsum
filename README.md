@@ -11,7 +11,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 | ------------- | ------------- |
 | :octocat:  | Github repo  |
 | :bento: | Options to choose from multiple sources |
-| :no_entry: | Generator is broken/unavailable |
 | :satellite:  | API |
 | :star2: | Popular |
 | :art: | Exceptional design |
@@ -120,6 +119,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Pommy Ipsum](http://www.pommyipsum.com/) - The official lorem ipsum filler text generator of the British Empire.
 * [Quijo Ipsum](http://www.quijotipsum.com/) - Lorem ipsum en Español. :speech_balloon:
 * [T'Lipsum](http://tlipsum.appspot.com/) - A Yorkshire-flavored generator. :octocat:
+* [Urban Ipsum](http://urbanipsum.com/) - Urban Dictionary ipsum.
 
 
 ### Literature
@@ -159,14 +159,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Time Cube Ipsum](http://www.timecubeipsum.com/) - You can not comprehend the actual ipsum in a single rotation of Earth.
 * [Trollem Ipsum](http://trollemipsum.appspot.com/) - Generates different results based on your relationship with Apple. :satellite:
 * [Twipsum](http://twipsum.net/) - Specify a Twitter account from which to pull ipsum source material on the fly.
+* [Web 2.0 Ipsum](http://web20ipsum.com/) - Featuring Web 2.0 startup names.
 * [White Space Ipsum](http://whitespaceipsum.com/) - Placeholder text guaranteed not to distract from your design (only generates blank space). [Markup options]
 
 
-### Sports
+### Sports and Fitness
 
 * [Baseball Ipsum](http://baseballipsum.apphb.com/)
 * [Skate Ipsum](http://skateipsum.com/) :satellite: :octocat: :small_blue_diamond:
 * [Ski Ipsum](http://skipsum.com/) - Shralp the Pow!
+* [Yoga Ipsum](http://yogaipsum.com/) - If you don't stretch you will die. :bento:
 
 
 ### TV and Film
