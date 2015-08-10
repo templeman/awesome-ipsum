@@ -215,10 +215,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [LittleIpsum](http://littleipsum.com/)
 
 
+## Contribute
+
+Know of an awesome ipsum generator that should be on this list? Let's add it! Start by reading the [contribution guidelines](contributing.md).
+
+
 ## TODO
 
 * Add TOC
 * Further categorize with tags
 * Link-checking function to prune dead links?
 * Add references to more plugins and tools
-* Add instructions for contributing
