@@ -4,6 +4,28 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+
+## Table of Contents
+
+- [Legend](#legend)
+- [Practical](#practical)
+- [Whimsical](#whimsical)
+  - [Animals](#animals)
+  - [Eras](#eras)
+  - [Famous Individuals](#famous-individuals)
+  - [Music](#music)
+  - [Food and Drink](#food-and-drink)
+  - [Geographical and Dialects](#geographical-and-dialects)
+  - [Literature](#literature)
+  - [Miscellaneous](#miscellaneous)
+  - [Sports and Fitness](#sports-and-fitness)
+  - [TV and Film](#tv-and-film)
+  - [Video Games](#video-games)
+- [Apps](#apps)
+- [Contribute](#contribute)
+- [TODO](#todo)
+
+
 ## Legend
 *Not all generators are created equal. Generators that have certain interesting features are marked with an emoji from the table below.*
 
@@ -83,7 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Tupac Ipsum](http://www.tupacipsum.com/) - Featuring lyrics from the songs of Tupac Shakur.
 
 
-### Food (and drink)
+### Food and Drink
 
 * [Bacon Ipsum](http://baconipsum.com/) - Choose between "all meat" or "meat with filler". :star2:
 * [Cafe Ipsum](http://cafeipsum.com/) - Menu-style generator that produces mashups of other food-themed generators, including Bacon Ipsum, Tuna Ipsum, Veggie Ipsum, Cupcake Ipsum, Beer Ipsum and Liquor Ipsum.
@@ -222,7 +244,6 @@ Know of an awesome ipsum generator that should be on this list? Let's add it! St
 
 ## TODO
 
-* Add TOC
 * Further categorize with tags
 * Link-checking function to prune dead links?
 * Add references to more plugins and tools
