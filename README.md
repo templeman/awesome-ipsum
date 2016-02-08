@@ -42,8 +42,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Practical
 
+* [AfricanIpsum](http://africanipsum.twaambo.com/) - A Lorem text generator that uses speeches made by African leaders. :octocat: :satellite: :small_blue_diamond:
 * [Blind Text Generator](http://www.blindtextgenerator.com/lorem-ipsum) - Choose from various flavors of traditional dummy text. :bento: :speech_balloon:
 * [Custom Ipsum](http://www.customipsum.com/) - Create your own ipsum.
+* [CorporateLorem](https://corporatelorem.kovah.de/) - Lorem Ipsum with real articles from newspapers and blogs. :octocat: :satellite: :small_blue_diamond:
 * [Dummy Text Generator](http://www.dummytextgenerator.com/) - Regular generator with some special options like headings and subheadings.
 * [Faux Texte](http://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various sources. :bento: :speech_balloon:
 * [Generate It](http://www.generateit.net/lorem-ipsum/index.php) - Generates classic lorem ipsum.
@@ -200,6 +202,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Better Ipsum Saul!](http://betteripsumsaul.com/) - Featuring Saul Goodman.
 * [Bluth Ipsum](http://bluthipsum.com/) - Featuring the family from Arrested Development.
 * [DeLorean Ipsum](http://www.deloreanipsum.com/) - Based on the "Back to the Future" films.
+* [DevLorem](https://devlorem.kovah.de/) - Featuring various actors like Jim Carrey, Morgan Freeman and others. :octocat: :satellite: :small_blue_diamond:
 * [Dingus Ipsum](http://dingusipsum.com/) - Featuring Dr. Steve Brule from Adult Swim's "Check It Out! With Dr. Steve Brule".
 * [Doctor Ipsum](http://doctoripsum.com/) - Featuring Doctor Who. :octocat:
 * [Fillerama](http://chrisvalleskey.com/fillerama/) TV and Film. Choose from Futurama, Arrested Development, Doctor Who, Dexter, Monty Python and the Holy Grail, The Simpsons, Star Wars, and vanilla Lorem Ipsum. :bento:
