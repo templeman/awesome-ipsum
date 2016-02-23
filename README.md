@@ -105,6 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Gagnam Ipsum](http://gangnam-ipsum.com/) - Gangnam style placeholder text. :speech_balloon:
 * [Justin Bieber Ipsum](http://www.jbipsum.com/) - It's a Bieber world live it or die. :octocat:
 * [Tupac Ipsum](http://www.tupacipsum.com/) - Featuring lyrics from the songs of Tupac Shakur.
+* [DJ Khaled Ipsum](http://khaledipsum.com/) - Featuring DJ Khaled.
 
 
 ### Food and Drink
