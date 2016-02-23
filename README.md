@@ -155,6 +155,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
 * [Schmipsum](http://www.schmipsum.com/) - Featuring a variety of interesting literary and historical sources. :bento: :satellite:
 * [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
+* [aozora](https://github.com/fand/aozora) - Pulls full text from [Aozora Bunko(青空文庫)](http://www.aozora.gr.jp/). :octocat: :speech_balloon:
 
 
 ### Miscellaneous
