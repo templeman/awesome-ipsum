@@ -180,6 +180,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Robot Ipsum](http://www.robotipsum.com/) - Mechanized filler text generator.
 * [SEO Ipsum](http://seoipsum.com/) - Generates white or black-hat-themed filler.
 * [Space Ipsum](http://spaceipsum.com/) - Space-themed generator.
+* [Startup Ipsum](http://startupsum.com/) - Startup buzzwords generator. :bento:
 * [Subliminal Lorem Ipsum](http://www.loremipsumgenerator.co.uk/) - Offers option to pepper original lorem ipsum with several irreverent flavors of phrases. :bento:
 * [Swearem Ipsum](http://www.swearemipsum.com/) - The Latin swear generator.
 * [Time Cube Ipsum](http://www.timecubeipsum.com/) - You can not comprehend the actual ipsum in a single rotation of Earth.
@@ -187,7 +188,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Twipsum](http://twipsum.net/) - Specify a Twitter account from which to pull ipsum source material on the fly.
 * [Web 2.0 Ipsum](http://web20ipsum.com/) - Featuring Web 2.0 startup names.
 * [White Space Ipsum](http://whitespaceipsum.com/) - Placeholder text guaranteed not to distract from your design (only generates blank space). [Markup options]
-
 
 ### Sports and Fitness
 
