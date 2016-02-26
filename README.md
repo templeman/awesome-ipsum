@@ -187,7 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Twipsum](http://twipsum.net/) - Specify a Twitter account from which to pull ipsum source material on the fly.
 * [Web 2.0 Ipsum](http://web20ipsum.com/) - Featuring Web 2.0 startup names.
 * [White Space Ipsum](http://whitespaceipsum.com/) - Placeholder text guaranteed not to distract from your design (only generates blank space). [Markup options]
-
+* [Startup Ipsum](http://startupsum.com/) - Startup buzzwords generator. :art: :bento:
 
 ### Sports and Fitness
 
