@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Sports and Fitness](#sports-and-fitness)
   - [TV and Film](#tv-and-film)
   - [Video Games](#video-games)
-- [Apps](#apps)
+- [Tools, Apps, and Extensions](#tools-apps-and-extensions)
 - [Contribute](#contribute)
 - [TODO](#todo)
 
@@ -157,7 +157,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
 * [Schmipsum](http://www.schmipsum.com/) - Featuring a variety of interesting literary and historical sources. :bento: :satellite:
 * [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
-* [aozora](https://github.com/fand/aozora) - Pulls full text from [Aozora Bunko(青空文庫)](http://www.aozora.gr.jp/). :octocat: :speech_balloon:
 
 
 ### Miscellaneous
@@ -189,6 +188,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Twipsum](http://twipsum.net/) - Specify a Twitter account from which to pull ipsum source material on the fly.
 * [Web 2.0 Ipsum](http://web20ipsum.com/) - Featuring Web 2.0 startup names.
 * [White Space Ipsum](http://whitespaceipsum.com/) - Placeholder text guaranteed not to distract from your design (only generates blank space). [Markup options]
+
 
 ### Sports and Fitness
 
@@ -238,9 +238,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Scorpion Ipsum](http://www.webspacedesign.nl/ipsum/scorpionipsum.html) - Featuring the character from Mortal Kombat (the phrases are presented in reverse).
 
 
-## Apps
+## Tools, Apps, and Extensions
 
 * [LittleIpsum](http://littleipsum.com/)
+* [aozora](https://github.com/fand/aozora) - CLI that can pull full text from [Aozora Bunko(青空文庫)](http://www.aozora.gr.jp/). :octocat: :speech_balloon:
 
 
 ## Contribute
