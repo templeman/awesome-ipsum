@@ -144,7 +144,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Pirate Ipsum](http://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea! :art:
 * [Pommy Ipsum](http://www.pommyipsum.com/) - The official lorem ipsum filler text generator of the British Empire.
 * [Quijo Ipsum](http://www.quijotipsum.com/) - Lorem ipsum en Español. :speech_balloon:
-* [T'Lipsum](http://tlipsum.appspot.com/) - A Yorkshire-flavored generator. :octocat:
 * [Urban Ipsum](http://urbanipsum.com/) - Urban Dictionary ipsum.
 
 
