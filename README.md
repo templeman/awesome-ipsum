@@ -186,7 +186,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Trollem Ipsum](http://trollemipsum.appspot.com/) - Generates different results based on your relationship with Apple. :satellite:
 * [Twipsum](http://twipsum.net/) - Specify a Twitter account from which to pull ipsum source material on the fly.
 * [Web 2.0 Ipsum](http://web20ipsum.com/) - Featuring Web 2.0 startup names.
-* [White Space Ipsum](http://whitespaceipsum.com/) - Placeholder text guaranteed not to distract from your design (only generates blank space). [Markup options]
 
 
 ### Sports and Fitness
