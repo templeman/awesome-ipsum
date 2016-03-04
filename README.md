@@ -82,7 +82,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Eras
 
-* [90's Ipsum](http://justinjaywang.com/90s-ipsum/) - Dope!
+* [90's Ipsum](http://justinjay.wang/90s-ipsum/) - Dope!
 * [Mid-century Ipsum](http://midcentury-ipsum.herokuapp.com/) - Swingin' filler text for your jet-age web page. :octocat:
 
 
