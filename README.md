@@ -136,7 +136,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Hacker Ipsum](http://hackeripsum.com/) - Hack the pentagon? (y/n):
 * [Hipster Ipsum](http://hipsum.co/) - Artisanal filler text for your site or project.
 * [Bogan Ipsum](http://boganipsum.com/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
-* [Hippie Ipsum](http://www.hippieipsum.me/) - Not to be confused with the popular Hipster Ipsum.
+* [Hippie Ipsum](http://www.hippieipsum.me/) - Not to be confused with the popular Hipster Ipsum. :octocat: :satellite:
 * [Kiwipsum](http://kiwipsum.com/) - From NZ.
 * [Mainer Ipsum](http://maineripsum.com/) - I guess they talk like this in Maine.
 * [Melbourne Ipsum](http://www.melbourneipsum.com.au/) - The ipsum of Melbourne, Australia.
