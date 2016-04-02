@@ -143,7 +143,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Pahu!](http://www.pahu.maori.nz/) - The Māori text generator with Bang!
 * [Pirate Ipsum](http://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea! :art:
 * [Pommy Ipsum](http://www.pommyipsum.com/) - The official lorem ipsum filler text generator of the British Empire.
-* [Quijo Ipsum](http://www.quijotipsum.com/) - Lorem ipsum en Español. :speech_balloon:
 * [Urban Ipsum](http://urbanipsum.com/) - Urban Dictionary ipsum.
 
 
@@ -154,6 +153,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Fillerati](http://www.fillerati.com/) - Pulls full text from Project Gutenburg. :bento:
 * [Game of Ipsum](http://www.gameofipsum.com/) - Placeholder text fit for a (precariously enthroned) king. :satellite:
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
+* [Quijote Ipsum](http://www.quijotipsum.com/) - Featuring text from Don Quixote, in Spanish (Castilian). :speech_balloon:
 * [Schmipsum](http://www.schmipsum.com/) - Featuring a variety of interesting literary and historical sources. :bento: :satellite:
 * [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
 
