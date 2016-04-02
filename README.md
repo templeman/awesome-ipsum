@@ -222,7 +222,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Riker Ipsum](http://www.rikeripsum.com) - Featuring the officer from Star Trek.
 * [Samuel L. Ipsum](http://slipsum.com/) - Featuring Samuel L. Jackson. :star2:
 * [Seinfeld Ipsum](http://seinfeldipsum.com/) - The Lorem Ipsum generator about nothing.
-* [Spongebob Ipsum](http://spongebobipsum.com/) - You just lost your brain privileges.
 * [Star Trek Ipsum](http://star-trek-ipsum.meetpollux.com/) - Like it sounds. :octocat: Markup options
 * [Swanson Ipsum](http://www.swansonipsum.com/) - Features both garbled ipsum as well as straight quotes from Ron Swanson of Parks & Recreation. :octocat: [Has a ruby gem for the Faker library]
 * [Tina Ipsum](http://tinaipsum.rocks/) - Featuring Tina Belcher of Bob's Burgers.
