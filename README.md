@@ -203,7 +203,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Borat Ipsum](http://boratipsum.com/) - For Make Benefit Glorious Nation of Kazakhstan.
 * [DeLorean Ipsum](http://www.deloreanipsum.com/) - Based on the "Back to the Future" films.
 * [DevLorem](https://devlorem.kovah.de/) - Featuring various actors like Jim Carrey, Morgan Freeman and others. :octocat: :satellite: :small_blue_diamond:
-* [Dingus Ipsum](http://dingusipsum.com/) - Featuring Dr. Steve Brule from Adult Swim's "Check It Out! With Dr. Steve Brule".
 * [Doctor Ipsum](http://doctoripsum.com/) - Featuring Doctor Who. :octocat:
 * [Fillerama](http://chrisvalleskey.com/fillerama/) TV and Film. Choose from Futurama, Arrested Development, Doctor Who, Dexter, Monty Python and the Holy Grail, The Simpsons, Star Wars, and vanilla Lorem Ipsum. :bento:
 * [Forcem Ipsum](http://forcemipsum.com/) - May the Ipsum be with you.
