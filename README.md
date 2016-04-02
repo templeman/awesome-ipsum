@@ -44,25 +44,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [AfricanIpsum](http://africanipsum.twaambo.com/) - A Lorem text generator that uses speeches made by African leaders. :octocat: :satellite: :small_blue_diamond:
 * [Blind Text Generator](http://www.blindtextgenerator.com/lorem-ipsum) - Choose from various flavors of traditional dummy text. :bento: :speech_balloon:
-* [Custom Ipsum](http://www.customipsum.com/) - Create your own ipsum.
 * [CorporateLorem](https://corporatelorem.kovah.de/) - Lorem Ipsum with real articles from newspapers and blogs. :octocat: :satellite: :small_blue_diamond:
+* [Custom Ipsum](http://www.customipsum.com/) - Create your own ipsum.
 * [Dummy Text Generator](http://www.dummytextgenerator.com/) - Regular generator with some special options like headings and subheadings.
 * [Faux Texte](http://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various sources. :bento: :speech_balloon:
 * [Generate It](http://www.generateit.net/lorem-ipsum/index.php) - Generates classic lorem ipsum.
+* [HTML-ipsum](http://html-ipsum.com/) - Provides pre-filled HTML patterns.
 * [Ipsum.me](http://www.ipsum.me/) - Specializes in generating fake profile information. :art:
 * [Jipsum](http://jipsum.com/) - Randomized lorem ipsum.
+* [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
 * [Legal Ipsum](http://legalipsum.com/) - Generates garbled legalese (or just regular legalese, really).
 * [Lorem 2](http://www.lorem2.com/) - Static lorem ipsum.
 * [Lorem Ipsum](http://www.lipsum.com/) - The Original.
 * [Lorem Ipsum 2.0](http://lipsum.ahyeah.nl/) - Dynamically sourced from social media, but appears a bit broken.
 * [Lorem Ipsum Generator](http://www.ipsum-generator.com/) - Standard lorem ipsum, with options to add `<i>` tags or `<b>` tags.
 * [Lorem Ipsum Generator](http://www.loremipsumgenerator.org/) - Generates standard lorem ipsum.
+* [Lorem Markdown](http://jaspervdj.be/lorem-markdownum/) - Generates text structured with markdown. :satellite: :octocat:
 * [Loripsum](http://www.loripsum.net/) - Full-featured generator of standard lorem ipsum. :satellite:
 * [Meta Lipsum](http://metalipsum.sherred.com/) - Option to infuse standard lorem ipsum with custom keywords.
 * [Not Lorem Ipsum](http://notloremipsum.com/) - Prewritten filler that is also industry-specific. :bento:
-* [HTML-ipsum](http://html-ipsum.com/) - Provides pre-filled HTML patterns.
-* [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
-* [Lorem Markdown](http://jaspervdj.be/lorem-markdownum/) - Generates text structured with markdown. :satellite: :octocat:
 * [Social Good Ipsum](http://socialgoodipsum.com) :art:
 * [Wizipsum](http://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. :octocat: :bento: :speech_balloon:
 
@@ -103,10 +103,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Music
 
 * [Beck Ipsum](http://beckipsum.com/) - Mellow gold placeholder text for losers.
+* [DJ Khaled Ipsum](http://khaledipsum.com/) - Featuring DJ Khaled.
 * [Gagnam Ipsum](http://gangnam-ipsum.com/) - Gangnam style placeholder text. :speech_balloon:
 * [Justin Bieber Ipsum](http://www.jbipsum.com/) - It's a Bieber world live it or die. :octocat:
 * [Tupac Ipsum](http://www.tupacipsum.com/) - Featuring lyrics from the songs of Tupac Shakur.
-* [DJ Khaled Ipsum](http://khaledipsum.com/) - Featuring DJ Khaled.
 
 
 ### Food and Drink
@@ -119,24 +119,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Cupcake Ipsum](http://www.cupcakeipsum.com/) - The sweetest ipsum.
 * [Liquor Ipsum](http://liquoripsum.com/) - A stiffer lorem ipsum generator.
 * [Pasta Ipsum](http://pastaipsum.com/) - Features many varieties of pasta. Includes option to add random profanity for no reason.
+* [Tuna Ipsum](http://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
 * [Vegan Ipsum](http://bengreen.org.uk/veganipsum/) - All filler, no killer.
 * [Veggie Ipsum](http://veggieipsum.com/) - Not to be confused with Vegan Ipsum.
-* [Tuna Ipsum](http://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
 
 
 ### Geographical and Dialects
 
 * [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator.
+* [Bogan Ipsum](http://boganipsum.com/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
 * [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Ipsum for Bristolians.
 * [Chiquito Ipsum](http://www.chiquitoipsum.com/) :speech_balloon:
 * [Choice Bro Ipsum](http://choicebroipsum.com/) - NZ-flavored ipsum.
 * [Ebonics Ipsum](http://ebonics-ipsum.com/) - A blacker, more African-American placeholder text.
-* [Hillbilly Ipsum](http://hillbillyipsum.com/) - Ain't laid an egg since way last spring.
 * [Gangsta Lorem Ipsum](http://lorizzle.nl/) - Fo shizzle.
 * [Hacker Ipsum](http://hackeripsum.com/) - Hack the pentagon? (y/n):
-* [Hipster Ipsum](http://hipsum.co/) - Artisanal filler text for your site or project.
-* [Bogan Ipsum](http://boganipsum.com/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
+* [Hillbilly Ipsum](http://hillbillyipsum.com/) - Ain't laid an egg since way last spring.
 * [Hippie Ipsum](http://www.hippieipsum.me/) - Not to be confused with the popular Hipster Ipsum. :octocat: :satellite:
+* [Hipster Ipsum](http://hipsum.co/) - Artisanal filler text for your site or project.
 * [Kiwipsum](http://kiwipsum.com/) - From NZ.
 * [Mainer Ipsum](http://maineripsum.com/) - I guess they talk like this in Maine.
 * [Melbourne Ipsum](http://www.melbourneipsum.com.au/) - The ipsum of Melbourne, Australia.
@@ -153,9 +153,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Fillerati](http://www.fillerati.com/) - Pulls full text from Project Gutenburg. :bento:
 * [Game of Ipsum](http://www.gameofipsum.com/) - Placeholder text fit for a (precariously enthroned) king. :satellite:
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
+* [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
 * [Quijote Ipsum](http://www.quijotipsum.com/) - Featuring text from Don Quixote, in Spanish (Castilian). :speech_balloon:
 * [Schmipsum](http://www.schmipsum.com/) - Featuring a variety of interesting literary and historical sources. :bento: :satellite:
-* [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
 
 
 ### Miscellaneous
@@ -198,9 +198,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### TV and Film
 
 * [Batman Ipsum](http://batman-ipsum.com/) - Featuring multiple characters from the latest Batman films. :bento:
-* [Borat Ipsum](http://boratipsum.com/) - For Make Benefit Glorious Nation of Kazakhstan.
 * [Better Ipsum Saul!](http://betteripsumsaul.com/) - Featuring Saul Goodman.
 * [Bluth Ipsum](http://bluthipsum.com/) - Featuring the family from Arrested Development.
+* [Borat Ipsum](http://boratipsum.com/) - For Make Benefit Glorious Nation of Kazakhstan.
 * [DeLorean Ipsum](http://www.deloreanipsum.com/) - Based on the "Back to the Future" films.
 * [DevLorem](https://devlorem.kovah.de/) - Featuring various actors like Jim Carrey, Morgan Freeman and others. :octocat: :satellite: :small_blue_diamond:
 * [Dingus Ipsum](http://dingusipsum.com/) - Featuring Dr. Steve Brule from Adult Swim's "Check It Out! With Dr. Steve Brule".
@@ -237,8 +237,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools, Apps, and Extensions
 
-* [LittleIpsum](http://littleipsum.com/)
 * [aozora](https://github.com/fand/aozora) - CLI that can pull full text from [Aozora Bunko(青空文庫)](http://www.aozora.gr.jp/). :octocat: :speech_balloon:
+* [LittleIpsum](http://littleipsum.com/)
 
 
 ## Contribute
