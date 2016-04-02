@@ -165,7 +165,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Corporate Ipsum](http://www.cipsum.com/) - Designed to facilitate the needs of corporate paper-pushers everywhere.
 * [Drunk Ipsum](http://drunkipsum.com/) - Standard lorem ipsum, only drunk.
 * [Duck Island Greeking Machine](http://duckisland.com/GreekMachine.php) - Choose from 9 completely unrelated sources. :bento:
-* [DND Ipsum](http://dndipsum.com/) - Lorem ipsum for lazy dungeon masters.
 * [Emo Ipsum](http://emoipsum.com/) - Misunderstood, tormented dummy text in tight jeans.
 * [Fucking Ipsum](http://www.fuipsum.com/) - Angry ipsum.
 * [Gag Ipsum](http://www.gagipsum.com/) - Sourced from general pop culture.
