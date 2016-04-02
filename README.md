@@ -189,7 +189,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Sports and Fitness
 
-* [Baseball Ipsum](http://baseballipsum.apphb.com/)
+* [Baseball Ipsum](http://baseballipsum.apphb.com/) :octocat: :satellite:
 * [Skate Ipsum](http://skateipsum.com/) :satellite: :octocat: :small_blue_diamond:
 * [Ski Ipsum](http://skipsum.com/) - Shralp the Pow!
 * [Yoga Ipsum](http://yogaipsum.com/) - If you don't stretch you will die. :bento:
