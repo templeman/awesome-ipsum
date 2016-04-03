@@ -213,7 +213,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Hodor Ipsum](http://hodoripsum.com/) - Featuring Hodor from "Game of Thrones".
 * [IT Crowd Ipsum](http://www.itcrowdipsum.com/) - Featuring quotes from the British sitcom.
 * [Jurassic Ipsum](http://www.jurassicipsum.com/) - Sourced from the script of Jurassic Park.
-* [Lebowski Ipsum](http://www.lebowskiipsum.com/) - How many paragraphs, man? :satellite: :art:
 * [Malevole](http://www.malevole.com/mv/misc/text/) - Featuring TV theme songs.
 * [Marvel Ipsum](http://www.marvelipsum.com) - Featuring text and images from Marvel comics. [Markup options, Special: includes options for generating SQL or JSON]
 * [Minions Ipsum](http://www.minionsipsum.com/) - Ipsum in the style of the Minions from the "Despicable Me" films.
