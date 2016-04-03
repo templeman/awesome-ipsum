@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Meta Lipsum](http://metalipsum.sherred.com/) - Option to infuse standard lorem ipsum with custom keywords.
 * [Not Lorem Ipsum](http://notloremipsum.com/) - Prewritten filler that is also industry-specific. :bento:
 * [Social Good Ipsum](http://socialgoodipsum.com) :art:
+* [The Amazing Lorem Ipsum Generator](http://www.i-r-genius.com/lipsum.html) - Classic lorem ipsum generator with a number of formatting options.
 * [Wizipsum](http://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. :octocat: :bento: :speech_balloon:
 
 
