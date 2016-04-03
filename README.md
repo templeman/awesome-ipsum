@@ -208,7 +208,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Fillerama](http://chrisvalleskey.com/fillerama/) TV and Film. Choose from Futurama, Arrested Development, Doctor Who, Dexter, Monty Python and the Holy Grail, The Simpsons, Star Wars, and vanilla Lorem Ipsum. :bento:
 * [Forcem Ipsum](http://forcemipsum.com/) - May the Ipsum be with you.
 * [Fuck Lorem](http://fucklorem.com/) - Sourced from TV shows and ads.
-* [Gosling Ipsum](http://www.rygo-ipsum.com/) - Featuring quotes from Ryan Gosling characters.
+* [Gosling Ipsum](http://www.rygo-ipsum.com/) - Featuring quotes from Ryan Gosling characters. :octocat:
 * [Heisenburg Ipsum](http://heisenbergipsum.com/) - Featuring various characters from the TV show "Breaking Bad". :bento:
 * [Hodor Ipsum](http://hodoripsum.com/) - Featuring Hodor from "Game of Thrones".
 * [IT Crowd Ipsum](http://www.itcrowdipsum.com/) - Featuring quotes from the British sitcom.
