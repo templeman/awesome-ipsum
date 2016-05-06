@@ -132,7 +132,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Bogan Ipsum](http://boganipsum.com/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
 * [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Ipsum for Bristolians.
 * [Chiquito Ipsum](http://www.chiquitoipsum.com/) :speech_balloon:
-* [Choice Bro Ipsum](http://choicebroipsum.com/) - NZ-flavored ipsum.
 * [Ebonics Ipsum](http://ebonics-ipsum.com/) - A blacker, more African-American placeholder text.
 * [Gangsta Lorem Ipsum](http://lorizzle.nl/) - Fo shizzle.
 * [Hacker Ipsum](http://hackeripsum.com/) - Hack the pentagon? (y/n):
