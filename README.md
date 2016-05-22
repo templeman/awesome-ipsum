@@ -117,7 +117,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Cheese Ipsum](http://www.cheeseipsum.co.uk/) - A cheesier Lorem Ipsum generator.
 * [Coffee Ipsum](http://coffeeipsum.com/) - Give your project a caffeine kick.
 * [Cupcake Ipsum](http://www.cupcakeipsum.com/) - The sweetest ipsum.
-* [Liquor Ipsum](http://liquoripsum.com/) - A stiffer lorem ipsum generator.
 * [Pasta Ipsum](http://pastaipsum.com/) - Features many varieties of pasta. Includes option to add random profanity for no reason.
 * [Tuna Ipsum](http://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
 * [Vegan Ipsum](http://bengreen.org.uk/veganipsum/) - All filler, no killer.
