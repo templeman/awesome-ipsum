@@ -48,7 +48,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Custom Ipsum](http://www.customipsum.com/) - Create your own ipsum.
 * [Dummy Text Generator](http://www.dummytextgenerator.com/) - Regular generator with some special options like headings and subheadings.
 * [Faux Texte](http://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various sources. :bento: :speech_balloon:
-* [Generate It](http://www.generateit.net/lorem-ipsum/index.php) - Generates classic lorem ipsum.
 * [HTML-ipsum](http://html-ipsum.com/) - Provides pre-filled HTML patterns.
 * [Ipsum.me](http://www.ipsum.me/) - Specializes in generating fake profile information. :art:
 * [Jipsum](http://jipsum.com/) - Randomized lorem ipsum.
