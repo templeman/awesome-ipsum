@@ -246,3 +246,10 @@ Know of an awesome ipsum generator that should be on this list? Let's add it! St
 * Further categorize with tags
 * Link-checking function to prune dead links?
 * Add references to more plugins and tools
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Sam Templeman has waived all copyright and related or neighboring rights to this work.
