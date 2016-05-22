@@ -125,7 +125,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Geographical and Dialects
 
-* [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator.
+* [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator. :speech_balloon:
 * [Bogan Ipsum](http://boganipsum.com/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
 * [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Ipsum for Bristolians.
 * [Chiquito Ipsum](http://www.chiquitoipsum.com/) :speech_balloon:
