@@ -61,7 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Lorem Markdown](http://jaspervdj.be/lorem-markdownum/) - Generates text structured with markdown. :satellite: :octocat:
 * [Loripsum](http://www.loripsum.net/) - Full-featured generator of standard lorem ipsum. :satellite:
 * [Not Lorem Ipsum](http://notloremipsum.com/) - Prewritten filler that is also industry-specific. :bento:
-* [Social Good Ipsum](http://socialgoodipsum.com) :art:
+* [Social Good Ipsum](http://socialgoodipsum.com) - Fill your comps with compassion. :art:
 * [The Amazing Lorem Ipsum Generator](http://www.i-r-genius.com/lipsum.html) - Classic lorem ipsum generator with a number of formatting options.
 * [Wizipsum](http://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. :octocat: :bento: :speech_balloon:
 
@@ -113,8 +113,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Bacon Ipsum](http://baconipsum.com/) - Choose between "all meat" or "meat with filler". :star2:
 * [Cafe Ipsum](http://cafeipsum.com/) - Menu-style generator that produces mashups of other food-themed generators, including Bacon Ipsum, Tuna Ipsum, Veggie Ipsum, Cupcake Ipsum, Beer Ipsum and Liquor Ipsum.
-* [Cajun Ipsum](http://www.cajunipsum.com/)
-* [Cheese Ipsum](http://www.cheeseipsum.co.uk/) - Everyone loves a bit of cheese, right?
+* [Cajun Ipsum](http://www.cajunipsum.com/) - Some Ipsum for your web page, cher!
+* [Cheese Ipsum](http://www.cheeseipsum.co.uk/) - A cheesier Lorem Ipsum generator.
 * [Coffee Ipsum](http://coffeeipsum.com/) - Give your project a caffeine kick.
 * [Cupcake Ipsum](http://www.cupcakeipsum.com/) - The sweetest ipsum.
 * [Liquor Ipsum](http://liquoripsum.com/) - A stiffer lorem ipsum generator.
