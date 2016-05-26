@@ -9,6 +9,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Legend](#legend)
 - [Practical](#practical)
+  - [HTML](#html)
 - [Whimsical](#whimsical)
   - [Animals](#animals)
   - [Eras](#eras)
@@ -27,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 ## Legend
+
 *Not all generators are created equal. Generators that have certain interesting features are marked with an emoji from the table below.*
 
 | Icon  | Attribute |
@@ -48,7 +50,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Custom Ipsum](http://www.customipsum.com/) - Create your own ipsum.
 * [Dummy Text Generator](http://www.dummytextgenerator.com/) - Regular generator with some special options like headings and subheadings.
 * [Faux Texte](http://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various sources. :bento: :speech_balloon:
-* [HTML-ipsum](http://html-ipsum.com/) - Provides pre-filled HTML patterns.
 * [Ipsum.me](http://www.ipsum.me/) - Specializes in generating fake profile information. :art:
 * [Jipsum](http://jipsum.com/) - Randomized lorem ipsum.
 * [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
@@ -66,8 +67,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Wizipsum](http://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. :octocat: :bento: :speech_balloon:
 
 
-## Whimsical
+### HTML
+* [HTML-ipsum](http://html-ipsum.com/) ([repo](https://github.com/chriscoyier/HTML-Ipsum)) - Lorem Ipsum text surrounded in HTML tags.
+* [HTML5 Ipsum](http://www.html5-ipsum.com/) ([repo](https://github.com/HimpfenPages/html5-ipsum.com/tree/gh-pages)) - Lorem Ipsum text for HTML.
+* [RoughDraft.js](http://ndreckshage.github.io/roughdraft.js/) ([repo](https://github.com/ndreckshage/roughdraft.js)) - Quickly create an interactive HTML mock-up, with minimal html markup and no server side code.
 
+
+## Whimsical
 
 ### Animals
 
