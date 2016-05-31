@@ -195,7 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### TV and Film
 
-* [Batman Ipsum](http://batman-ipsum.com/) - Featuring multiple characters from the latest Batman films. :bento:
+* [Batman Ipsum](http://batman-ipsum.com/) - Featuring multiple characters from the latest Batman films. :octocat: :bento:
 * [Better Ipsum Saul!](http://betteripsumsaul.com/) - Featuring Saul Goodman. :octocat:
 * [Bluth Ipsum](http://bluthipsum.com/) - Featuring the family from Arrested Development.
 * [Borat Ipsum](http://boratipsum.com/) - For Make Benefit Glorious Nation of Kazakhstan.
