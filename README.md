@@ -213,7 +213,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Malevole](http://www.malevole.com/mv/misc/text/) - Featuring TV theme songs.
 * [Marvel Ipsum](http://www.marvelipsum.com) - Featuring text and images from Marvel comics. [Markup options, Special: includes options for generating SQL or JSON]
 * [Minions Ipsum](http://www.minionsipsum.com/) - Ipsum in the style of the Minions from the "Despicable Me" films.
-* [Picksum Ipsum](http://www.picksumipsum.co.uk/) :bento: :art:
 * [PokéIpsum](http://nyarth.net/ipsum/) - Based on Pokémon.
 * [Riker Ipsum](http://www.rikeripsum.com) - Featuring the officer from Star Trek.
 * [Samuel L. Ipsum](http://slipsum.com/) - Featuring Samuel L. Jackson. :star2:
