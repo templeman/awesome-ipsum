@@ -196,7 +196,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### TV and Film
 
 * [Batman Ipsum](http://batman-ipsum.com/) - Featuring multiple characters from the latest Batman films. :bento:
-* [Better Ipsum Saul!](http://betteripsumsaul.com/) - Featuring Saul Goodman.
+* [Better Ipsum Saul!](http://betteripsumsaul.com/) - Featuring Saul Goodman. :octocat:
 * [Bluth Ipsum](http://bluthipsum.com/) - Featuring the family from Arrested Development.
 * [Borat Ipsum](http://boratipsum.com/) - For Make Benefit Glorious Nation of Kazakhstan.
 * [DeLorean Ipsum](http://www.deloreanipsum.com/) - Based on the "Back to the Future" films. :octocat:
