@@ -164,7 +164,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Dad Ipsum](http://dadipsum.com/) - Just because I do it does not mean you can.
 * [Drunk Ipsum](http://drunkipsum.com/) - Standard lorem ipsum, only drunk.
 * [Duck Island Greeking Machine](http://duckisland.com/GreekMachine.php) - Choose from 9 completely unrelated sources. :bento:
-* [Emo Ipsum](http://emoipsum.com/) - Misunderstood, tormented dummy text in tight jeans.
 * [Fucking Ipsum](http://www.fuipsum.com/) - Angry ipsum.
 * [Gag Ipsum](http://www.gagipsum.com/) - Sourced from general pop culture.
 * [Hairy Lipsum](http://hairylipsum.com/) - Is your Latin lacking a certain rugged handsomeness? :art:
