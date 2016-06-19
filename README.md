@@ -187,8 +187,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Sports and Fitness
 
-* [Baseball Ipsum](http://baseballipsum.apphb.com/) :octocat: :satellite:
-* [Skate Ipsum](http://skateipsum.com/) :satellite: :octocat: :small_blue_diamond:
+* [Baseball Ipsum](http://baseballipsum.apphb.com/) - Ray. People will come, Ray. :octocat: :satellite:
+* [Skate Ipsum](http://skateipsum.com/) - Shred! :satellite: :octocat: :small_blue_diamond:
 * [Ski Ipsum](http://skipsum.com/) - Shralp the Pow!
 
 
