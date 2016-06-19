@@ -58,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Lorem Ipsum 2.0](http://lipsum.ahyeah.nl/) - Dynamically sourced from social media, but appears a bit broken.
 * [Lorem Ipsum Generator](http://www.ipsum-generator.com/) - Standard lorem ipsum, with options to add `<i>` tags or `<b>` tags.
 * [Lorem Ipsum Generator](http://www.loremipsumgenerator.org/) - Generates standard lorem ipsum.
+* [Lorem Ipsum Generator](http://www.procato.com/lipsum/) - Generates standard lorem ipsum, with options.
 * [Lorem Markdown](http://jaspervdj.be/lorem-markdownum/) - Generates text structured with markdown. :satellite: :octocat:
 * [Loripsum](http://www.loripsum.net/) - Full-featured generator of standard lorem ipsum. :satellite:
 * [Not Lorem Ipsum](http://notloremipsum.com/) - Prewritten filler that is also industry-specific. :bento:
