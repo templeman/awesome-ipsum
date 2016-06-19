@@ -108,6 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [DJ Khaled Ipsum](http://khaledipsum.com/) - Featuring DJ Khaled.
 * [Gagnam Ipsum](http://gangnam-ipsum.com/) - Gangnam style placeholder text. :speech_balloon:
 * [Justin Bieber Ipsum](http://www.jbipsum.com/) - It's a Bieber world live it or die. :octocat:
+* [Kanye Ipsum](http://kanyeipsum.net/) - Kanfidence For All
 * [Tupac Ipsum](http://www.tupacipsum.com/) - Featuring lyrics from the songs of Tupac Shakur.
 
 
