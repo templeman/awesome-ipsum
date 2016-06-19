@@ -87,6 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Famous Individuals
 
 * [BallmerIpsum](http://ballmeripsum.com/) - Featuring Microsoft CEO Steve Ballmer. [Special: includes option to generate image placeholders]
+* [Bob Ross Lipsum](http://www.bobrosslipsum.com/) - A happy little lorem ipsum generator.
 * [Busey Ipsum](http://www.buseyipsum.com/) - Featuring Gary Busey.
 * [Dalaipsum](http://dalaipsum.com/) - Featuring quotes by His Holiness the XIVth Dalai Lama.
 * [Mussum Ipsum](http://mussumipsum.com/) - Featuring the [Brazilian actor and musician](https://en.wikipedia.org/wiki/Mussum). :speech_balloon:
