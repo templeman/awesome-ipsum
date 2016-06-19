@@ -168,7 +168,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Gag Ipsum](http://www.gagipsum.com/) - Sourced from general pop culture.
 * [Hairy Lipsum](http://hairylipsum.com/) - Is your Latin lacking a certain rugged handsomeness? :art:
 * [Ipsum Generator](http://ipsum.ecxol.net/) - Offers option to pepper original lorem ipsum with different flavoring. :bento:
-* [Jony Ipsum](http://jonyipsum.com/) - Static block of Apple-flavored text. Not a generator.
 * [Metaphorpsum](http://metaphorpsum.com/) - A wise– if perhaps slightly pedantic– generator of metaphor. :octocat: :satellite:
 * [Modernipsum](http://www.modernipsum.com/) - An artier lorem ipsum generator.
 * [Monocle Ipsum](http://www.monocleipsum.com/) :octocat:
