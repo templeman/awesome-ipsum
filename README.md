@@ -177,7 +177,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [SEO Ipsum](http://seoipsum.com/) - Generates white or black-hat-themed filler.
 * [Space Ipsum](http://spaceipsum.com/) - Space-themed generator.
 * [Startup Ipsum](http://startupsum.com/) - Startup buzzwords generator. :bento:
-* [Subliminal Lorem Ipsum](http://www.loremipsumgenerator.co.uk/) - Offers option to pepper original lorem ipsum with several irreverent flavors of phrases. :bento:
 * [Swearem Ipsum](http://www.swearemipsum.com/) - The Latin swear generator.
 * [Time Cube Ipsum](http://www.timecubeipsum.com/) - You can not comprehend the actual ipsum in a single rotation of Earth.
 * [Trollem Ipsum](http://trollemipsum.appspot.com/) - Generates different results based on your relationship with Apple. :satellite:
