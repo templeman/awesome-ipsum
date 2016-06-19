@@ -171,6 +171,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Metaphorpsum](http://metaphorpsum.com/) - A wise– if perhaps slightly pedantic– generator of metaphor. :octocat: :satellite:
 * [Modernipsum](http://www.modernipsum.com/) - An artier lorem ipsum generator.
 * [Monocle Ipsum](http://www.monocleipsum.com/) :octocat:
+* [Office Ipsum](http://officeipsum.com/) - Let's crank out some copy.
 * [Online Dating Ipsum](http://laurenhallden.com/datingipsum/) - Because most profiles are just word soup anyway.
 * [Robot Ipsum](http://www.robotipsum.com/) - Mechanized filler text generator.
 * [SEO Ipsum](http://seoipsum.com/) - Generates white or black-hat-themed filler.
