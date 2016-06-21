@@ -29,19 +29,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Legend
 *Not all generators are created equal. Generators that have certain interesting features are marked with an emoji from the table below.*
 
-| Icon  | Attribute |
-| ------------- | ------------- |
-| :octocat:  | Github repo  |
-| :bento: | Options to choose from multiple sources |
-| :satellite:  | API |
-| :star2: | Popular |
-| :art: | Exceptional design |
-| :small_blue_diamond: | Has option for JSON output |
-| :speech_balloon: | Includes languages other than English |
+| Icon                 | Attribute                               |
+| -------------        | -------------                           |
+| :octocat:            | Github repo                             |
+| :bento:              | Options to choose from multiple sources |
+| :satellite:          | API                                     |
+| :star2:              | Popular                                 |
+| :art:                | Exceptional design                      |
+| :small_blue_diamond: | Has option for JSON output              |
+| :speech_balloon:     | Includes languages other than English   |
 
 
 ## Practical
 
+* [Adhesiontext](http://adhesiontext.com/) - Practical generator with support for a large number of languages. :speech_balloon:
 * [AfricanIpsum](http://africanipsum.twaambo.com/) - A Lorem text generator that uses speeches made by African leaders. :octocat: :satellite: :small_blue_diamond:
 * [Blind Text Generator](http://www.blindtextgenerator.com/lorem-ipsum) - Choose from various flavors of traditional dummy text. :bento: :speech_balloon:
 * [CorporateLorem](https://corporatelorem.kovah.de/) - Lorem Ipsum with real articles from newspapers and blogs. :octocat: :satellite: :small_blue_diamond:
