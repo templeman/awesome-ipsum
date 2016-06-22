@@ -63,6 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Lorem Markdown](http://jaspervdj.be/lorem-markdownum/) - Generates text structured with markdown. :satellite: :octocat:
 * [Loripsum](http://www.loripsum.net/) - Full-featured generator of standard lorem ipsum. :satellite:
 * [Not Lorem Ipsum](http://notloremipsum.com/) - Prewritten filler that is also industry-specific. :bento:
+* [RandomText](http://www.randomtext.me/) - Generate standard lorem ipsum or plain old gibberish, with additional options. :satellite:
 * [Social Good Ipsum](http://socialgoodipsum.com) - Fill your comps with compassion. :art:
 * [The Amazing Lorem Ipsum Generator](http://www.i-r-genius.com/lipsum.html) - Classic lorem ipsum generator with a number of formatting options.
 * [Wizipsum](http://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. :octocat: :bento: :speech_balloon:
