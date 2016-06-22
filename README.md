@@ -235,6 +235,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Tools, Apps, and Extensions
 
 * [aozora](https://github.com/fand/aozora) - CLI that can pull full text from [Aozora Bunko(青空文庫)](http://www.aozora.gr.jp/). :octocat: :speech_balloon:
+* [Emmet](http://docs.emmet.io/abbreviations/lorem-ipsum/) - Plugin available for [all these editors](http://emmet.io/download/).
 * [LittleIpsum](http://littleipsum.com/) - Tiny, standalone Latin text generator for OS X.
 
 
