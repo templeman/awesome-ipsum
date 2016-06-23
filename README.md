@@ -205,6 +205,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [DeLorean Ipsum](http://www.deloreanipsum.com/) - Based on the "Back to the Future" films. :octocat:
 * [DevLorem](https://devlorem.kovah.de/) - Featuring various actors like Jim Carrey, Morgan Freeman and others. :octocat: :satellite: :small_blue_diamond:
 * [Doctor Ipsum](http://doctoripsum.com/) - Featuring Doctor Who. :octocat:
+* [Dwight K. Ipsum](http://dwightkipsum.com/) - Featuring Dwight Schrute from The Office (U.S.)
 * [Fillerama](http://fillerama.io/) TV and Film. Choose from Futurama, Arrested Development, Doctor Who, Dexter, Monty Python and the Holy Grail, The Simpsons, Star Wars, and vanilla Lorem Ipsum. :bento:
 * [Forcem Ipsum](http://forcemipsum.com/) - May the Ipsum be with you. :octocat:
 * [Fuck Lorem](http://fucklorem.com/) - Sourced from TV shows and ads.
