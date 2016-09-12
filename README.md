@@ -177,6 +177,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Monocle Ipsum](http://www.monocleipsum.com/) :octocat:
 * [Office Ipsum](http://officeipsum.com/) - Let's crank out some copy.
 * [Online Dating Ipsum](http://laurenhallden.com/datingipsum/) - Because most profiles are just word soup anyway.
+* [Robot Ipsum](http://robotipsum.github.io/) - Mechanically Modern Material Made Mostly For Mankind.
 * [SEO Ipsum](http://seoipsum.com/) - Generates white or black-hat-themed filler.
 * [Space Ipsum](http://spaceipsum.com/) - Space-themed generator.
 * [Startup Ipsum](http://startupsum.com/) - Startup buzzwords generator. :bento:
