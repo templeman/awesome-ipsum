@@ -153,7 +153,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Bible Ipsum](http://bibleipsum.free.fr/) - Featuring the American Standard Version of the Holy Bible.
 * [Fifty Shades Ipsum](http://www.fiftyshadesgenerator.com/) - Raunchy ipsum. Doubles as an erotic fiction generator.
 * [Fillerati](http://www.fillerati.com/) - Pulls full text from Project Gutenburg. :bento:
-* [Game of Ipsum](http://www.gameofipsum.com/) - Placeholder text fit for a (precariously enthroned) king. :satellite:
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
 * [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
 * [Quijote Ipsum](http://www.quijotipsum.com/) - Featuring text from Don Quixote, in Spanish (Castilian). :speech_balloon:
