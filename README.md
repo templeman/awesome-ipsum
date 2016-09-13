@@ -155,7 +155,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Fillerati](http://www.fillerati.com/) - Pulls full text from Project Gutenburg. :bento:
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
 * [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
-* [Quijote Ipsum](http://www.quijotipsum.com/) - Featuring text from Don Quixote, in Spanish (Castilian). :speech_balloon:
 * [Schmipsum](http://www.schmipsum.com/) - Featuring a variety of interesting literary and historical sources. :bento: :satellite:
 * [Westeros Ipsum](http://westerosipsum.me/) - Names, places, and quotes from the epic fantasy series *A Song of Ice and Fire* by George R.R. Martin.
 
