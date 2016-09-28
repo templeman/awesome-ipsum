@@ -100,7 +100,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Savage Ipsum](http://www.savageipsum.com/) - Featuring former pro wrestler Randy Savage. Oooh yeah! :satellite:
 * [The Vatican Assassin](http://vaticanassass.in/) - Featuring quotes from Charlie Sheen.
 * [Trump Ipsum](http://www.trump-ipsum.com/) - Make Ipsum Great Again! :octocat:
-* [Trumpem](http://trumpem.us/) - Serves up full Donald Trump quotes with reference links.
 * [Whedon Ipsum](http://www.commercekitchen.com/whedon-ipsum/) - Featuring Joss Whedon.
 
 
