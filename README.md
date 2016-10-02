@@ -187,6 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Sports and Fitness
 
 * [Baseball Ipsum](http://baseballipsum.apphb.com/) - Ray. People will come, Ray. :octocat: :satellite:
+* [Body Builder Ipsum](http://www.bodybuilderipsum.com.br/) - O melhor lorem ipsum dessa PORRA, caralho! :octocat: :speech_balloon:
 * [Skate Ipsum](http://skateipsum.com/) - Shred! :satellite: :octocat: :small_blue_diamond:
 * [Ski Ipsum](http://skipsum.com/) - Shralp the Pow!
 
