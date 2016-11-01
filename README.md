@@ -43,7 +43,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Practical
 
 * [Adhesiontext](http://adhesiontext.com/) - Practical generator with support for a large number of languages. :speech_balloon:
-* [AfricanIpsum](http://africanipsum.twaambo.com/) - A Lorem text generator that uses speeches made by African leaders. :octocat: :satellite: :small_blue_diamond:
 * [Blind Text Generator](http://www.blindtextgenerator.com/lorem-ipsum) - Choose from various flavors of traditional dummy text. :bento: :speech_balloon:
 * [CorporateLorem](https://corporatelorem.kovah.de/) - Lorem Ipsum with real articles from newspapers and blogs. :octocat: :satellite: :small_blue_diamond:
 * [Custom Ipsum](http://www.customipsum.com/) - Create your own ipsum.
