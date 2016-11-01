@@ -40,7 +40,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 | :speech_balloon:     | Includes languages other than English   |
 
 
-## Practical
+## :briefcase: Practical
 
 * [Adhesiontext](http://adhesiontext.com/) - Practical generator with support for a large number of languages. :speech_balloon:
 * [AfricanIpsum](http://africanipsum.twaambo.com/) - A Lorem text generator that uses speeches made by African leaders. :octocat: :satellite: :small_blue_diamond:
@@ -69,10 +69,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Wizipsum](http://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. :octocat: :bento: :speech_balloon:
 
 
-## Whimsical
+## :roller_coaster: Whimsical
 
 
-### Animals
+### :rabbit: Animals
 
 * [Cat Ipsum](http://www.catipsum.com/) - Featuring our furry friends.
 * [Catnipsum](http://www.catnipsum.com/) - This cat-themed site includes quite a bit more than just a generator.
@@ -81,13 +81,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Zombie Ipsum](http://www.zombieipsum.com/) - Braaains! and probably some other words. :art:
 
 
-### Eras
+### :tophat: Eras
 
 * [90's Ipsum](http://justinjay.wang/90s-ipsum/) - Dope!
 * [Mid-century Ipsum](http://midcentury-ipsum.herokuapp.com/) - Swingin' filler text for your jet-age web page. :octocat:
 
 
-### Famous Individuals
+### :sunglasses: Famous Individuals
 
 * [Bob Ross Lipsum](http://www.bobrosslipsum.com/) - A happy little lorem ipsum generator.
 * [Busey Ipsum](http://www.buseyipsum.com/) - Featuring Gary Busey.
@@ -102,7 +102,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Whedon Ipsum](http://www.commercekitchen.com/whedon-ipsum/) - Featuring Joss Whedon.
 
 
-### Music
+### :microphone: Music
 
 * [Beck Ipsum](http://beckipsum.com/) - Mellow gold placeholder text for losers.
 * [DJ Khaled Ipsum](http://khaledipsum.com/) - Featuring DJ Khaled.
@@ -112,7 +112,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Tupac Ipsum](http://www.tupacipsum.com/) - Featuring lyrics from the songs of Tupac Shakur.
 
 
-### Food and Drink
+### :pizza: Food and Drink
 
 * [Bacon Ipsum](http://baconipsum.com/) - Choose between "all meat" or "meat with filler". :star2:
 * [Cafe Ipsum](http://cafeipsum.com/) - Menu-style generator that produces mashups of other food-themed generators, including Bacon Ipsum, Tuna Ipsum, Veggie Ipsum, Cupcake Ipsum, Beer Ipsum and Liquor Ipsum.
@@ -126,7 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Veggie Ipsum](http://veggieipsum.com/) - Not to be confused with Vegan Ipsum.
 
 
-### Geographical and Dialects
+### :earth_africa: Geographical and Dialects
 
 * [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator. :speech_balloon:
 * [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Ipsum for Bristolians.
@@ -145,7 +145,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Pommy Ipsum](http://www.pommyipsum.com/) - The official lorem ipsum filler text generator of the British Empire.
 
 
-### Literature
+### :books: Literature
 
 * [Bible Ipsum](http://bibleipsum.free.fr/) - Featuring the American Standard Version of the Holy Bible.
 * [Fifty Shades Ipsum](http://www.fiftyshadesgenerator.com/) - Raunchy ipsum. Doubles as an erotic fiction generator.
@@ -156,7 +156,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Westeros Ipsum](http://westerosipsum.me/) - Names, places, and quotes from the epic fantasy series *A Song of Ice and Fire* by George R.R. Martin.
 
 
-### Miscellaneous
+### :cyclone: Miscellaneous
 
 * [Ancient Alien Ipsum](http://ancientalienipsum.com/) - The Ipsum of the Mayans.
 * [Apple iPsum](http://appleipsum.org/) - Fill different!
@@ -184,7 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Web 2.0 Ipsum](http://web20ipsum.com/) - Featuring Web 2.0 startup names.
 
 
-### Sports and Fitness
+### :bicyclist: Sports and Fitness
 
 * [Baseball Ipsum](http://baseballipsum.apphb.com/) - Ray. People will come, Ray. :octocat: :satellite:
 * [Body Builder Ipsum](http://www.bodybuilderipsum.com.br/) - O melhor lorem ipsum dessa PORRA, caralho! :octocat: :speech_balloon:
@@ -192,7 +192,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Ski Ipsum](http://skipsum.com/) - Shralp the Pow!
 
 
-### TV and Film
+### :movie_camera: TV and Film
 
 * [Batman Ipsum](http://batman-ipsum.com/) - Featuring multiple characters from the latest Batman films. :octocat: :bento:
 * [Better Ipsum Saul!](http://betteripsumsaul.com/) - Featuring Saul Goodman. :octocat:
@@ -223,12 +223,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [TV Ipsum](http://www.tvipsum.org/) - Featuring mash-ups sourced from a number of hit cartoon or sci-fi TV shows. :bento:
 
 
-### Video Games
+### :video_game: Video Games
 
 * [Scorpion Ipsum](http://www.webspacedesign.nl/ipsum/scorpionipsum.html) - Featuring the character from Mortal Kombat (the phrases are presented in reverse).
 
 
-## Tools, Apps, and Extensions
+## :wrench: Tools, Apps, and Extensions
 
 * [aozora](https://github.com/fand/aozora) - CLI that can pull full text from [Aozora Bunko(青空文庫)](http://www.aozora.gr.jp/). :octocat: :speech_balloon:
 * [Emmet](http://docs.emmet.io/abbreviations/lorem-ipsum/) - Plugin available for [all these editors](http://emmet.io/download/).
