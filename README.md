@@ -89,7 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### :sunglasses: Famous Individuals
 
-* [Bob Ross Lipsum](http://www.bobrosslipsum.com/) - A happy little lorem ipsum generator.
+* [Bob Ross Lipsum](http://www.bobrosslipsum.com/) - A happy little lorem ipsum generator. `html`
 * [Busey Ipsum](http://www.buseyipsum.com/) - Featuring Gary Busey.
 * [Dalaipsum](http://dalaipsum.com/) - Featuring quotes by His Holiness the XIVth Dalai Lama.
 * [Mussum Ipsum](http://mussumipsum.com/) - Featuring the [Brazilian actor and musician](https://en.wikipedia.org/wiki/Mussum). :speech_balloon:
