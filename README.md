@@ -209,7 +209,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [IT Crowd Ipsum](http://www.itcrowdipsum.com/) - Featuring quotes from the British sitcom.
 * [Jurassic Ipsum](http://www.jurassicipsum.com/) - Sourced from the script of Jurassic Park.
 * [Malevole](http://www.malevole.com/mv/misc/text/) - Featuring TV theme songs.
-* [Minions Ipsum](http://www.minionsipsum.com/) - Ipsum in the style of the Minions from the "Despicable Me" films.
 * [Partridge Ipsum](https://parall.ax/partridge-ipsum) - Featuring Alan Partridge.
 * [PokéIpsum](http://nyarth.net/ipsum/) - Based on Pokémon.
 * [Riker Ipsum](http://www.rikeripsum.com) - Featuring the officer from Star Trek.
