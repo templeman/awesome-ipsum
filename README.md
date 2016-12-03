@@ -111,7 +111,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Food and Drink
 
 * [Bacon Ipsum](http://baconipsum.com/) - Choose between "all meat" or "meat with filler". :star2:
-* [Cafe Ipsum](http://cafeipsum.com/) - Menu-style generator that produces mashups of other food-themed generators, including Bacon Ipsum, Tuna Ipsum, Veggie Ipsum, Cupcake Ipsum, Beer Ipsum and Liquor Ipsum.
 * [Cajun Ipsum](http://www.cajunipsum.com/) - Some Ipsum for your web page, cher!
 * [Cheese Ipsum](http://www.cheeseipsum.co.uk/) - A cheesier Lorem Ipsum generator.
 * [Coffee Ipsum](http://coffeeipsum.com/) - Give your project a caffeine kick.
