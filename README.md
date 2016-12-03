@@ -74,7 +74,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Cat Ipsum](http://www.catipsum.com/) - Featuring our furry friends.
 * [Dino Ipsum](http://dinoipsum.herokuapp.com/) - Featuring varieties of scientific dinosaur names. :satellite: :octocat: :small_blue_diamond:
-* [Dino Ipsum](http://dinoipsum.com/) - This one features nothing but dinosaur roars.
 * [Zombie Ipsum](http://www.zombieipsum.com/) - Braaains! and probably some other words. :art:
 
 
