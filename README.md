@@ -125,7 +125,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator. :speech_balloon:
 * [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Ipsum for Bristolians.
 * [Chiquito Ipsum](http://www.chiquitoipsum.com/) :speech_balloon:
-* [Ebonics Ipsum](http://ebonics-ipsum.com/) - A blacker, more African-American placeholder text.
 * [Gangsta Lorem Ipsum](http://lorizzle.nl/) - Fo shizzle.
 * [Hacker Ipsum](http://hackeripsum.com/) - Hack the pentagon? (y/n):
 * [Hillbilly Ipsum](http://hillbillyipsum.com/) - Ain't laid an egg since way last spring.
