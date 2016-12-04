@@ -195,7 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [DevLorem](https://devlorem.kovah.de/) - Featuring various actors like Jim Carrey, Morgan Freeman and others. `GitHub` `API` `JSON`
 * [Doctor Ipsum](http://doctoripsum.com/) - Featuring Doctor Who. `GitHub`
 * [Dwight K. Ipsum](http://dwightkipsum.com/) - Featuring Dwight Schrute from <i>The Office (U.S.)</i>.
-* [Fillerama](http://fillerama.io/) TV and Film. Choose from Futurama, Arrested Development, Doctor Who, Dexter, Monty Python and the Holy Grail, The Simpsons, Star Wars, and vanilla Lorem Ipsum. `Polysource`
+* [Fillerama](http://fillerama.io/) TV and Film. Choose from <i>Futurama</i>, <i>Arrested Development</i>, <i>Doctor Who</i>, <i>Dexter</i>, <i>Monty Python and the Holy Grail</i>, <i>The Simpsons</i>, <i>Star Wars</i>, and vanilla Lorem Ipsum. `Polysource`
 * [Forcem Ipsum](http://forcemipsum.com/) - May the Ipsum be with you. `GitHub`
 * [Fuck Lorem](http://fucklorem.com/) - Sourced from TV shows and ads.
 * [Gosling Ipsum](http://www.rygo-ipsum.com/) - Featuring quotes from Ryan Gosling characters. `GitHub`
@@ -206,7 +206,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Malevole](http://www.malevole.com/mv/misc/text/) - Featuring TV theme songs.
 * [Partridge Ipsum](https://parall.ax/partridge-ipsum) - Featuring Alan Partridge.
 * [PokéIpsum](http://nyarth.net/ipsum/) - Based on Pokémon.
-* [Riker Ipsum](http://www.rikeripsum.com) - Featuring the officer from Star Trek.
+* [Riker Ipsum](http://www.rikeripsum.com) - Featuring the officer from <i>Star Trek</i>.
 * [Samuel L. Ipsum](http://slipsum.com/) - Featuring Samuel L. Jackson.
 * [Seinfeld Ipsum](http://seinfeldipsum.com/) - The Lorem Ipsum generator about nothing.
 * [Star Trek Ipsum](http://star-trek-ipsum.meetpollux.com/) - Featuring handpicked quotes from the television series <i>Star Trek: The Next Generation</i>. `GitHub` `HTML`
