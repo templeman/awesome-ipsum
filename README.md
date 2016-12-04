@@ -117,8 +117,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Cupcake Ipsum](http://www.cupcakeipsum.com/) - The sweetest ipsum.
 * [Pasta Ipsum](http://pastaipsum.com/) - Features many varieties of pasta. Includes option to add random profanity for no reason.
 * [Tuna Ipsum](http://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
-* [Vegan Ipsum](http://bengreen.org.uk/veganipsum/) - All filler, no killer.
-* [Veggie Ipsum](http://veggieipsum.com/) - Not to be confused with Vegan Ipsum.
+* [Veggie Ipsum](http://veggieipsum.com/) - The vegetarian alternative to Bacon Ipsum.
 
 
 ### Geographical and Dialects
