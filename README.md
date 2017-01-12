@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 ## Legend
+
 *Not all generators are created equal. Generators that have certain useful features are marked with tag(s) from the table below.*
 
 | Tag           | Attribute                                            |
@@ -49,7 +50,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Custom Ipsum](http://www.customipsum.com/) - Create your own ipsum.
 * [Dummy Text Generator](http://www.dummytextgenerator.com/) - Regular generator with some special options like headings and subheadings.
 * [Faux Texte](http://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various styles. `HTML` `lang-French` `Polysource`
-* [HTML-ipsum](http://html-ipsum.com/) - Provides pre-filled HTML patterns. `HTML`
+* [HTML-ipsum](http://html-ipsum.com/) ([repo](https://github.com/chriscoyier/HTML-Ipsum)) - Provides pre-filled HTML patterns. `HTML`
+* [HTML5 Ipsum](http://www.html5-ipsum.com/) ([repo](https://github.com/HimpfenPages/html5-ipsum.com)) - Lorem Ipsum text for HTML. `HTML`
 * [Jipsum](http://jipsum.com/) - Randomized lorem ipsum. `HTML`
 * [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
 * [Legal Ipsum](http://legalipsum.com/) - Generates garbled legalese (or just regular legalese, really).
@@ -66,7 +68,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Social Good Ipsum](http://socialgoodipsum.com) - Fill your comps with compassion.
 * [The Amazing Lorem Ipsum Generator](http://www.i-r-genius.com/lipsum.html) - Classic lorem ipsum generator with a number of formatting options.
 * [Wizipsum](http://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. `GitHub` `npm` `Chrome` `Polysource`
-
 
 
 ## :roller_coaster: Whimsical
@@ -227,6 +228,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Emmet](http://docs.emmet.io/abbreviations/lorem-ipsum/) - Plugin available for [all these editors](http://emmet.io/download/).
 * [LittleIpsum](http://littleipsum.com/) - Tiny, standalone Latin text generator for OS X.
 * [Sublime Text Packages](https://packagecontrol.io/search/ipsum) - Placeholder packages for Sublime Text.
+* [RoughDraft.js](http://ndreckshage.github.io/roughdraft.js/) ([repo](https://github.com/ndreckshage/roughdraft.js)) - Quickly create an interactive HTML mock-up, with minimal html markup and no server side code.
 
 
 ## Contribute
