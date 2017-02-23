@@ -154,7 +154,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### :cyclone: Miscellaneous
 
 * [Ancient Alien Ipsum](http://ancientalienipsum.com/) - The Ipsum of the Mayans.
-* [Apple iPsum](http://appleipsum.org/) - Fill different!
 * [Bro Ipsum](http://www.broipsum.com/) - One copy to Bro them all.
 * [Corporate Ipsum](http://www.cipsum.com/) - Designed to facilitate the needs of corporate paper-pushers everywhere.
 * [Dad Ipsum](http://dadipsum.com/) - Just because I do it does not mean you can.
