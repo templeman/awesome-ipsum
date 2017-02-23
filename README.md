@@ -103,7 +103,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### :microphone: Music
 
-* [Beck Ipsum](http://beckipsum.com/) - Mellow gold placeholder text for losers. `HTML`
 * [DJ Khaled Ipsum](http://khaledipsum.com/) - Featuring DJ Khaled.
 * [Gagnam Ipsum](http://gangnam-ipsum.com/) - Gangnam style placeholder text. `HTML` `lang-Korean`
 * [Justin Bieber Ipsum](http://www.jbipsum.com/) - It's a Bieber world live it or die. `GitHub`
