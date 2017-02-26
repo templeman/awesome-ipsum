@@ -148,7 +148,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
 * [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
 * [Schmipsum](http://www.schmipsum.com/) - Featuring a variety of interesting literary and historical sources. `Polysource` `API`
-* [Westeros Ipsum](http://westerosipsum.me/) - Names, places, and quotes from the epic fantasy series *A Song of Ice and Fire* by George R.R. Martin.
 
 
 ### :cyclone: Miscellaneous
