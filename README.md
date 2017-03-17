@@ -20,7 +20,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Miscellaneous](#miscellaneous)
   - [Sports and Fitness](#sports-and-fitness)
   - [TV and Film](#tv-and-film)
-  - [Video Games](#video-games)
 - [Tools, Apps, and Extensions](#tools-apps-and-extensions)
 - [Contribute](#contribute)
 - [TODO](#todo)
@@ -210,11 +209,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Tina Ipsum](http://tinaipsum.rocks/) - Featuring Tina Belcher of <i>Bob's Burgers</i>.
 * [TV Ipsum](http://tvipsum.com/) - Featuring mashups of classic TV show theme songs.
 * [TV Ipsum](http://www.tvipsum.org/) - Featuring mash-ups sourced from a number of hit cartoon or sci-fi TV shows. `Polysource`
-
-
-### :video_game: Video Games
-
-* [Scorpion Ipsum](http://www.webspacedesign.nl/ipsum/scorpionipsum.html) - Featuring the character from Mortal Kombat (the phrases are presented in reverse).
 
 
 ## :wrench: Tools, Apps, and Extensions
