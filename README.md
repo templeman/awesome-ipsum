@@ -183,6 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Body Builder Ipsum](http://www.bodybuilderipsum.com.br/) - O melhor lorem ipsum dessa PORRA, caralho! `GitHub` `lang-Portuguese`
 * [Skate Ipsum](http://skateipsum.com/) - Shred! `API` `GitHub` `JSON`
 * [Ski Ipsum](http://skipsum.com/) - Shralp the Pow!
+* [Velo Ipsum](http://rouleurderby.com/vi) - Greek type for bike geeks. `API`
 
 
 ### :movie_camera: TV and Film
