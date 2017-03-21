@@ -54,6 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Jipsum](http://jipsum.com/) - Randomized lorem ipsum. `HTML`
 * [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
 * [Legal Ipsum](http://legalipsum.com/) - Generates garbled legalese (or just regular legalese, really).
+* [Lipsum.pro](http://lipsum.pro/) - A fast, mouse-friendly lorem ipsum generator.
 * [Lorem 2](http://www.lorem2.com/) - Static lorem ipsum.
 * [Lorem Ipsum](http://www.lipsum.com/) - The Original.
 * [Lorem Ipsum 2.0](http://lipsum.ahyeah.nl/) - Dynamically sourced from social media, but appears a bit broken.
