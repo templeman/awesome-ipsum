@@ -38,6 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 | `JSON`        | Option for JSON output                               |
 | `lang-[*]`    | Includes non-English language(s)                     |
 | `Markdown`    | Option for Markdown output                           |
+| `NPM`         | Available as Node module                             |
 | `Polysource`  | Option to choose from among multiple content sources |
 
 
@@ -194,7 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Doctor Ipsum](http://doctoripsum.com/) - Featuring Doctor Who. `GitHub`
 * [Dwight K. Ipsum](http://dwightkipsum.com/) - Featuring Dwight Schrute from <i>The Office (U.S.)</i>.
 * [Fillerama](http://fillerama.io/) TV and Film. Choose from <i>Futurama</i>, <i>Arrested Development</i>, <i>Doctor Who</i>, <i>Dexter</i>, <i>Monty Python and the Holy Grail</i>, <i>The Simpsons</i>, <i>Star Wars</i>, and vanilla Lorem Ipsum. `Polysource`
-* [Forcem Ipsum](http://forcemipsum.com/) - May the Ipsum be with you. `GitHub`
+* [Forcem Ipsum](http://forcemipsum.com/) - May the Ipsum be with you. `GitHub` `NPM`
 * [Fuck Lorem](http://fucklorem.com/) - Sourced from TV shows and ads.
 * [Gosling Ipsum](http://www.rygo-ipsum.com/) - Featuring quotes from Ryan Gosling characters. `GitHub`
 * [Heisenburg Ipsum](http://heisenbergipsum.com/) - Featuring various characters from the TV show <i>Breaking Bad</i>. `Polysource`
