@@ -98,7 +98,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Savage Ipsum](http://www.savageipsum.com/) - Featuring former pro wrestler Randy Savage. Oooh yeah! `API`
 * [The Vatican Assassin](http://vaticanassass.in/) - Featuring quotes from Charlie Sheen. `HTML`
 * [Trump Ipsum](http://www.trump-ipsum.com/) - Make Ipsum Great Again! `GitHub`
-* [Whedon Ipsum](http://www.commercekitchen.com/whedon-ipsum/) - Featuring Joss Whedon. `HTML`
 
 
 ### :microphone: Music
