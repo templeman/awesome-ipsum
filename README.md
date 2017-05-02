@@ -201,7 +201,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Heisenburg Ipsum](http://heisenbergipsum.com/) - Featuring various characters from the TV show <i>Breaking Bad</i>. `Polysource`
 * [Hodor Ipsum](http://hodoripsum.com/) - Featuring Hodor from <i>Game of Thrones</i>.
 * [IT Crowd Ipsum](http://www.itcrowdipsum.com/) - Featuring quotes from the British sitcom.
-* [Jurassic Ipsum](http://www.jurassicipsum.com/) - Sourced from the script of <i>Jurassic Park</i>.
 * [Malevole](http://www.malevole.com/mv/misc/text/) - Featuring TV theme songs.
 * [Partridge Ipsum](https://parall.ax/partridge-ipsum) - Featuring Alan Partridge.
 * [PokéIpsum](http://nyarth.net/ipsum/) - Based on Pokémon.
