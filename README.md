@@ -134,7 +134,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Kiwipsum](http://kiwipsum.com/) - From NZ. `HTML`
 * [Mainer Ipsum](http://maineripsum.com/) - I guess they talk like this in Maine.
 * [Melbourne Ipsum](http://www.melbourneipsum.com.au/) - The ipsum of Melbourne, Australia.
-* [Pahu!](http://www.pahu.maori.nz/) - The Māori text generator with Bang!
+* [PAHU!](http://www.pahu.maori.nz/) - The Māori text generator with Bang! `lang-Māori`
 * [Pirate Ipsum](http://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea!
 * [Pommy Ipsum](http://www.pommyipsum.com/) - The official lorem ipsum filler text generator of the British Empire. `HTML`
 * [Vegas Ipsum](http://vegasipsum.com/) - What ever happens in Vegas Ipsum... `HTML` `Polysource`
