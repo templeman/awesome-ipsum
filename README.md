@@ -115,6 +115,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Bacon Ipsum](http://baconipsum.com/) - Choose between "all meat" or "meat with filler". `API` `GitHub`
 * [Cajun Ipsum](http://www.cajunipsum.com/) - Some Ipsum for your web page, cher! `lang-CajunFrench`
 * [Cheese Ipsum](http://www.cheeseipsum.co.uk/) - A cheesier Lorem Ipsum generator.
+* [Cheeseburger Ipsum](http://cheeseburgeripsum.com/) Cheeseburgers know that what you want can also be what you need.
 * [Coffee Ipsum](http://coffeeipsum.com/) - Give your project a caffeine kick. `HTML`
 * [Cupcake Ipsum](http://www.cupcakeipsum.com/) - The sweetest ipsum.
 * [Tuna Ipsum](http://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
