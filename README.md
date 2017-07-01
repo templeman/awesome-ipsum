@@ -126,6 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator. `lang-German`
 * [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Ipsum for Bristolians.
+* [Brusseleer Ipsum](http://brusseleeripsum.be/) - Ipsum from Brussels. `lang-FlemishPatois`
 * [Chiquito Ipsum](http://www.chiquitoipsum.com/) `lang-Spanish`
 * [Durham Ipsum](http://durhamipsum.com/) - Ipsum from Durham, North Carolina. `Polysource`
 * [Gangsta Lorem Ipsum](http://lorizzle.nl/) - Fo shizzle.
