@@ -119,6 +119,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Cupcake Ipsum](http://www.cupcakeipsum.com/) - The sweetest ipsum.
 * [Tuna Ipsum](http://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
 * [Veggie Ipsum](http://veggieipsum.com/) - The vegetarian alternative to Bacon Ipsum.
+* [Ramen Ipsum](https://ramenipsum.herokuapp.com) - A brothier Lorem Ipsum generator. `API` `Github` `lang-Japanese` `lang-Thai`
 
 
 ### :earth_africa: Geographical and Dialects
