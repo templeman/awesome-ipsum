@@ -149,7 +149,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Bible Ipsum](http://bibleipsum.free.fr/) - Featuring the American Standard Version of the Holy Bible. `HTML` `lang-French`
 * [Fifty Shades Ipsum](http://www.fiftyshadesgenerator.com/) - Terrible erotic fiction at the click of a button. `GitHub`
-* [Fillerati](http://www.fillerati.com/) - Pulls full text from Project Gutenburg. `HTML` `Polysource`
 * [Harry Potter Ipsum](http://www.christinachern.com/hpipsum/) - Accio Filler Text!
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
 * [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
