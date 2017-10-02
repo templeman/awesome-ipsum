@@ -107,7 +107,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Gagnam Ipsum](http://gangnam-ipsum.com/) - Gangnam style placeholder text. `HTML` `lang-Korean`
 * [Justin Bieber Ipsum](http://www.jbipsum.com/) - It's a Bieber world live it or die. `GitHub`
 * [Kanye Ipsum](http://kanyeipsum.net/) - Kanfidence For All
-* [Tupac Ipsum](http://www.tupacipsum.com/) - Featuring lyrics from the songs of Tupac Shakur.
 
 
 ### :pizza: Food and Drink
