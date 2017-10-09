@@ -211,7 +211,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Samuel L. Ipsum](http://slipsum.com/) - Featuring Samuel L. Jackson.
 * [Seinfeld Ipsum](http://seinfeldipsum.com/) - The Lorem Ipsum generator about nothing.
 * [Star Trek Ipsum](http://star-trek-ipsum.meetpollux.com/) - Featuring handpicked quotes from the television series <i>Star Trek: The Next Generation</i>. `GitHub` `HTML`
-* [Tina Ipsum](http://tinaipsum.rocks/) - Featuring Tina Belcher of <i>Bob's Burgers</i>.
 * [TV Ipsum](http://tvipsum.com/) - Featuring mashups of classic TV show theme songs.
 * [TV Ipsum](http://www.tvipsum.org/) - Featuring mash-ups sourced from a number of hit cartoon or sci-fi TV shows. `Polysource`
 
