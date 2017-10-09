@@ -96,7 +96,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Nietzsche Ipsum](http://nietzsche-ipsum.com/) - Ecce Ipsum.
 * [Obama Ipsum](http://obamaipsum.com/) - Yes we can.
 * [Sagan Ipsum](http://saganipsum.com/) - Featuring American scientist and author Carl Sagan.
-* [Savage Ipsum](http://www.savageipsum.com/) - Featuring former pro wrestler Randy Savage. Oooh yeah! `API`
 * [The Vatican Assassin](http://vaticanassass.in/) - Featuring quotes from Charlie Sheen. `HTML`
 * [Trump Ipsum](http://www.trump-ipsum.com/) - Make Ipsum Great Again! `GitHub`
 
