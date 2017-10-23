@@ -51,7 +51,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Dummy Text Generator](http://www.dummytextgenerator.com/) - Regular generator with some special options like headings and subheadings.
 * [Faux Texte](http://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various styles. `HTML` `lang-French` `Polysource`
 * [HTML-ipsum](http://html-ipsum.com/) ([repo](https://github.com/chriscoyier/HTML-Ipsum)) - Provides pre-filled HTML patterns. `HTML`
-* [HTML5 Ipsum](http://www.html5-ipsum.com/) ([repo](https://github.com/HimpfenPages/html5-ipsum.com)) - Lorem Ipsum text for HTML. `HTML`
 * [Jipsum](http://jipsum.com/) - Randomized lorem ipsum. `HTML`
 * [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
 * [Legal Ipsum](http://legalipsum.com/) - Generates garbled legalese (or just regular legalese, really).
