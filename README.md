@@ -15,7 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Famous Individuals](#sunglasses-famous-individuals)
   - [Music](#microphone-music)
   - [Food and Drink](#pizza-food-and-drink)
-  - [Geographical and Dialects](#earth_africa-geographical-and-dialects)
+  - [Geographic and Dialects](#earth_africa-geographic-and-dialects)
   - [Literature](#books-literature)
   - [Miscellaneous](#cyclone-miscellaneous)
   - [Sports and Fitness](#bicyclist-sports-and-fitness)
@@ -81,7 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### :tophat: Eras
 
-* [90's Ipsum](http://justinjay.wang/90s-ipsum/) - Dope!
+* [90s Ipsum](http://justinjay.wang/90s-ipsum/) - Dope!
 * [Mid-century Ipsum](http://midcentury-ipsum.herokuapp.com/) - Swingin' filler text for your jet-age web page. `GitHub`
 
 
@@ -118,7 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Veggie Ipsum](http://veggieipsum.com/) - The vegetarian alternative to Bacon Ipsum.
 
 
-### :earth_africa: Geographical and Dialects
+### :earth_africa: Geographic and Dialects
 
 * [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator. `lang-German`
 * [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Ipsum for Bristolians.
@@ -138,7 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [PAHU!](http://www.pahu.maori.nz/) - The Māori text generator with Bang! `lang-Māori`
 * [Pirate Ipsum](http://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea!
 * [Pommy Ipsum](http://www.pommyipsum.com/) - The official lorem ipsum filler text generator of the British Empire. `HTML`
-* [Vegas Ipsum](http://vegasipsum.com/) - What ever happens in Vegas Ipsum... `HTML` `Polysource`
+* [Vegas Ipsum](http://vegasipsum.com/) - What happens in Vegas Ipsum… `HTML` `Polysource`
 
 
 ### :books: Literature
