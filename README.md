@@ -64,7 +64,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Lorem Ipsum Generator](http://www.procato.com/lipsum/) - Generates standard lorem ipsum, with options. `HTML`
 * [Lorem Markdown](http://jaspervdj.be/lorem-markdownum/) - Generates text structured with markdown. `Markdown` `API` `GitHub`
 * [Loripsum](http://www.loripsum.net/) - Full-featured generator of standard lorem ipsum. `HTML` `API`
-* [Not Lorem Ipsum](http://notloremipsum.com/) - Prewritten filler that is also industry-specific. `Polysource`
 * [RandomText](http://www.randomtext.me/) - Generate standard lorem ipsum or plain old gibberish, with additional options. `HTML` `API`
 * [Social Good Ipsum](http://socialgoodipsum.com) - Fill your comps with compassion.
 * [The Amazing Lorem Ipsum Generator](http://www.i-r-genius.com/lipsum.html) - Classic lorem ipsum generator with a number of formatting options.
