@@ -159,7 +159,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Corporate Ipsum](http://www.cipsum.com/) - Designed to facilitate the needs of corporate paper-pushers everywhere.
 * [Dad Ipsum](http://dadipsum.com/) - Just because I do it does not mean you can.
 * [Duck Island Greeking Machine](http://duckisland.com/GreekMachine.php) - Choose from 9 completely unrelated sources. `Polysource`
-* [Gag Ipsum](http://www.gagipsum.com/) - Sourced from general pop culture.
 * [Hairy Lipsum](http://hairylipsum.com/) - Is your Latin lacking a certain rugged handsomeness?
 * [Ipsum Generator](http://ipsum.ecxol.net/) - Offers option to pepper original lorem ipsum with different flavoring. `lang-French` `Polysource`
 * [Metaphorpsum](http://metaphorpsum.com/) - A wise– if perhaps slightly pedantic– generator of metaphor. `GitHub` `API`
