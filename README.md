@@ -88,6 +88,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Bob Ross Lipsum](http://www.bobrosslipsum.com/) - A happy little lorem ipsum generator. `HTML`
 * [Busey Ipsum](http://www.buseyipsum.com/) - Featuring Gary Busey.
+* [Communist Lorem Ipsum](http://maciejkus.com/communist-lorem-ipsum/) - Choose between Marx, Mao, Lenin, Stalin, or Trotsky. `HTML` `Polysource`
 * [Dalaipsum](http://dalaipsum.com/) - Featuring quotes by His Holiness the XIVth Dalai Lama. `HTML`
 * [Mussum Ipsum](http://mussumipsum.com/) - Featuring the [Brazilian actor and musician](https://en.wikipedia.org/wiki/Mussum). `lang-Portuguese`
 * [Nietzsche Ipsum](http://nietzsche-ipsum.com/) - Ecce Ipsum.
