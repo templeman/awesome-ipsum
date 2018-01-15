@@ -181,7 +181,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Baseball Ipsum](http://baseballipsum.apphb.com/) - Ray. People will come, Ray. `GitHub` `API`
 * [Skate Ipsum](http://skateipsum.com/) - Shred! `API` `GitHub` `JSON`
 * [Ski Ipsum](http://skipsum.com/) - Shralp the Pow!
-* [Velo Ipsum](http://rouleurderby.com/vi) - Greek type for bike geeks. `API`
 
 
 ### :movie_camera: TV and Film
