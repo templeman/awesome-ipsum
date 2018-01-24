@@ -112,6 +112,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Cheeseburger Ipsum](http://cheeseburgeripsum.com/) - Cheeseburgers know that what you want can also be what you need.
 * [Coffee Ipsum](http://coffeeipsum.com/) - Give your project a caffeine kick. `HTML`
 * [Cupcake Ipsum](http://www.cupcakeipsum.com/) - The sweetest ipsum.
+* [Liquor Ipsum](http://liquoripsum.com/) - A stiffer lorem ipsum generator.
 * [Ramen Ipsum](https://ramenipsum.herokuapp.com) - A brothier Lorem Ipsum generator. `API` `Github` `lang-Japanese` `lang-Thai`
 * [Tuna Ipsum](http://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
 * [Veggie Ipsum](http://veggieipsum.com/) - The vegetarian alternative to Bacon Ipsum.
