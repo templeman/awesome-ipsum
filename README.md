@@ -73,8 +73,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### :rabbit: Animals
 
-* [Cat Ipsum](http://www.catipsum.com/) - Featuring our furry friends.
+* [Cat Ipsum](http://www.catipsum.com/) - Featuring our furry feline friends.
 * [Dino Ipsum](http://dinoipsum.herokuapp.com/) - Featuring varieties of scientific dinosaur names. `API` `AJAX` `GitHub` `HTML` `JSON`
+* [Doggo Ipsum](https://doggoipsum.com/) - Featuring doggos and puppers.
 * [Zombie Ipsum](http://www.zombieipsum.com/) - Braaains! and probably some other words.
 
 
