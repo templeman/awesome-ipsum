@@ -98,6 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Sagan Ipsum](http://saganipsum.com/) - Featuring American scientist and author Carl Sagan.
 * [The Vatican Assassin](http://vaticanassass.in/) - Featuring quotes from Charlie Sheen. `HTML`
 * [Trump Ipsum](http://www.trump-ipsum.com/) - Make Ipsum Great Again! `GitHub`
+* [Trump Ipsum](http://trumpipsum.net/) - Make Placeholder Text Great Again!
 
 
 ### :microphone: Music
