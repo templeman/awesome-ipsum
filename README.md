@@ -204,7 +204,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Godfather Ipsum](https://godfatheripsum.github.io) - An ipsum generator with iconic quotes from The Godfather trilogy: "I'm gonna make him an ipsum he can't refuse". `GitHub`
 * [Gosling Ipsum](http://www.rygo-ipsum.com/) - Featuring quotes from Ryan Gosling characters. `GitHub`
 * [Heisenburg Ipsum](http://heisenbergipsum.com/) - Featuring various characters from the TV show <i>Breaking Bad</i>. `Polysource`
-* [Hodor Ipsum](http://hodoripsum.com/) - Featuring Hodor from <i>Game of Thrones</i>.
 * [IT Crowd Ipsum](http://www.itcrowdipsum.com/) - Featuring quotes from the British sitcom.
 * [Malevole](http://www.malevole.com/mv/misc/text/) - Featuring TV theme songs.
 * [Neah](http://nckg.github.io/neah/) - Featuring quotes from Arnold Schwarzenegger characters. `GitHub` `NPM`
