@@ -104,7 +104,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [DJ Khaled Ipsum](http://khaledipsum.com/) - Featuring DJ Khaled.
 * [Justin Bieber Ipsum](http://www.jbipsum.com/) - It's a Bieber world live it or die. `GitHub`
-* [Kanye Ipsum](http://kanyeipsum.net/) - Kanfidence For All.
 * [Katy Perry Ipsum](http://katyperryipsum.com/) - Featuring Katy Perry lyrics.
 * [Taylor Swift Ipsum](http://www.taylorswiftipsum.com/) - Select source material from different Taylor Swift albums as well as hashtags from the artist's official Tumblr. `Polysource`
 
