@@ -66,7 +66,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Social Good Ipsum](http://socialgoodipsum.com) - Fill your comps with compassion.
 * [The Amazing Lorem Ipsum Generator](http://www.i-r-genius.com/lipsum.html) - Classic lorem ipsum generator with a number of formatting options.
 * [Wizipsum](http://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. `GitHub` `npm` `Chrome` `Polysource`
-
+* [Greekum Ipsum](https://github.com/Greekum) - Generate random greek sentences, words & paragraphs. `API` `lang-Greek` `GitHub` `NPM`
 
 ## :roller_coaster: Whimsical
 
