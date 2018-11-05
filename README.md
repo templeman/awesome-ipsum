@@ -162,6 +162,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Bullshit Ipsum](http://bullshitipsum.com/) - Marketing-flavored buzzwords and phrases. Free of swear words despite the name.
 * [Corporate Ipsum](http://www.cipsum.com/) - Designed to facilitate the needs of corporate paper-pushers everywhere.
 * [Dad Ipsum](http://dadipsum.com/) - Just because I do it does not mean you can.
+* [Email Ipsum](http://vernallsroad.com/emailipsum) - A few paragraphs of lorem ipsum for the #emailgeek in your life.
 * [Hairy Lipsum](http://hairylipsum.com/) - Is your Latin lacking a certain rugged handsomeness?
 * [Ipsum Generator](http://ipsum.ecxol.net/) - Offers option to pepper original lorem ipsum with different flavoring. `lang-French` `Polysource`
 * [Lorem Fucking Ipsum](http://loremfuckingipsum.com/) - Placeholder text for people who have some fucking passion!
