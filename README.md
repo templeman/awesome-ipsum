@@ -104,7 +104,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### :microphone: Music
 
 * [DJ Khaled Ipsum](http://khaledipsum.com/) - Featuring DJ Khaled.
-* [Justin Bieber Ipsum](http://www.jbipsum.com/) - It's a Bieber world live it or die. `GitHub`
 * [Katy Perry Ipsum](http://katyperryipsum.com/) - Featuring Katy Perry lyrics.
 
 
