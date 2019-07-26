@@ -146,6 +146,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### :books: Literature
 
 * [Bible Ipsum](http://bibleipsum.free.fr/) - Featuring the American Standard Version of the Holy Bible. `HTML` `lang-French`
+* [Cthuvian Ipsum](http://ephemer.kapsi.fi/FhtagnGenerator.php) - Sourced from the R’lyehian language of the Cthulhu Mythos developed by H.P. Lovecraft.
 * [Fifty Shades Ipsum](http://www.fiftyshadesgenerator.com/) - Terrible erotic fiction at the click of a button. `GitHub`
 * [Harry Potter Ipsum](http://www.christinachern.com/hpipsum/) - Accio Filler Text!
 * [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
