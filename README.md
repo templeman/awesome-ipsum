@@ -178,6 +178,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Time Cube Ipsum](http://www.timecubeipsum.com/) - You can not comprehend the actual ipsum in a single rotation of Earth.
 * [Trollem Ipsum](http://trollemipsum.appspot.com/) - Generates different results based on your relationship with Apple. `API`
 * [Web 2.0 Ipsum](http://web20ipsum.com/) - Featuring Web 2.0 startup names.
+* [Wikipsum](http://wikipsum.com/) - Sourced from Wikipedia.
 
 
 ### :bicyclist: Sports and Fitness
