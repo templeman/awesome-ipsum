@@ -190,7 +190,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### :movie_camera: TV and Film
 
-* [Batman Ipsum](http://batman-ipsum.com/) - Featuring multiple characters from the latest Batman films. `GitHub` `Polysource`
 * [Bluth Ipsum](http://bluthipsum.com/) - Featuring the family from <i>Arrested Development</i>.
 * [Borat Ipsum](http://boratipsum.com/) - For Make Benefit Glorious Nation of Kazakhstan.
 * [DeLorean Ipsum](http://www.deloreanipsum.com/) - Based on the <i>Back to the Future</i> films. `GitHub`
