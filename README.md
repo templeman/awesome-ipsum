@@ -212,6 +212,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Riker Ipsum](http://www.rikeripsum.com) - Featuring the officer from <i>Star Trek</i>.
 * [Samuel L. Ipsum](http://slipsum.com/) - Featuring Samuel L. Jackson.
 * [Star Trek Ipsum](http://star-trek-ipsum.meetpollux.com/) - Featuring handpicked quotes from the television series <i>Star Trek: The Next Generation</i>. `GitHub` `HTML`
+* [Stranger Ipsum](https://stranger-ipsum.robertcooper.me/) - Featuring quotes from the Netflix series <i>Stranger Things</i>. `GitHub`
 * [TV Ipsum](http://tvipsum.com/) - Featuring mashups of classic TV show theme songs.
 * [TV Ipsum](http://www.tvipsum.org/) - Featuring mash-ups sourced from a number of hit cartoon or sci-fi TV shows. `Polysource`
 
