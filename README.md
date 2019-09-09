@@ -140,7 +140,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [PAHU!](http://www.pahu.maori.nz/) - The Māori text generator with Bang! `lang-Māori`
 * [Pirate Ipsum](http://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea!
 * [Pommy Ipsum](http://www.pommyipsum.com/) - The official lorem ipsum filler text generator of the British Empire. `HTML`
-* [Vegas Ipsum](http://vegasipsum.com/) - What happens in Vegas Ipsum… `HTML` `Polysource`
 
 
 ### :books: Literature
