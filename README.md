@@ -87,6 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### :sunglasses: Famous Individuals
 
+* [Birolipsum](http://izmcm.github.io/birolipsum/) - Featuring the 38th President of Brazil, Jair Bolsonaro. `lang-Portuguese`
 * [Bob Ross Lipsum](http://www.bobrosslipsum.com/) - A happy little lorem ipsum generator. `HTML`
 * [Busey Ipsum](http://www.buseyipsum.com/) - Featuring Gary Busey.
 * [Chuck Norris Facts](http://vincentloy.github.io/chuck_facts_ipsum/) - Chuck Norris does not sleep. He waits.
