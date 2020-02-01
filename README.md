@@ -210,7 +210,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Malevole](http://www.malevole.com/mv/misc/text/) - Featuring TV theme songs.
 * [Neah](http://nckg.github.io/neah/) - Featuring quotes from Arnold Schwarzenegger characters. `GitHub` `NPM`
 * [Partridge Ipsum](https://parall.ax/partridge-ipsum) - Featuring Alan Partridge.
-* [PokéIpsum](http://nyarth.net/ipsum/) - Based on Pokémon.
 * [Riker Ipsum](http://www.rikeripsum.com) - Featuring the officer from <i>Star Trek</i>.
 * [Samuel L. Ipsum](http://slipsum.com/) - Featuring Samuel L. Jackson.
 * [Star Trek Ipsum](http://star-trek-ipsum.meetpollux.com/) - Featuring handpicked quotes from the television series <i>Star Trek: The Next Generation</i>. `GitHub` `HTML`
