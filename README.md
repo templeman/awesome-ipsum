@@ -135,7 +135,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Hella Ipsum](http://hellaipsum.com/) - Featuring Bay Area lingo and slang. `API`
 * [Hillbilly Ipsum](http://hillbillyipsum.com/) - Ain't laid an egg since way last spring.
 * [Hippie Ipsum](http://www.hippieipsum.me/) - Not to be confused with the popular Hipster Ipsum. `GitHub` `API`
-* [Hipster Ipsum](http://hipsum.co/) - Artisanal filler text for your site or project. `API`
+* [Hipster Ipsum](http://hipsum.co/) - Artisanal filler text for your site or project.
 * [Lancashire Ipsum](https://www.quentinjamesdesign.co.uk/lancashire-ipsum/) - Champion filler text from Lancashire, UK.
 * [Mainer Ipsum](http://maineripsum.com/) - I guess they talk like this in Maine.
 * [Melbourne Ipsum](http://www.melbourneipsum.com.au/) - The ipsum of Melbourne, Australia.
