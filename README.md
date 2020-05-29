@@ -162,6 +162,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Bullshit Ipsum](http://bullshitipsum.com/) - Marketing-flavored buzzwords and phrases. Free of swear words despite the name.
 * [Corporate Ipsum](http://www.cipsum.com/) - Designed to facilitate the needs of corporate paper-pushers everywhere.
 * [Fyre Ipsum](https://fyreipsum.com/) - Sourced from the Fyre Festival pitch deck (with a little Magnises thrown in).
+* [Gothic Ipsum](http://gothicipsum.com) - A dreadful Lorem Ipsum generator.
 * [Hairy Lipsum](http://hairylipsum.com/) - Is your Latin lacking a certain rugged handsomeness?
 * [Ipsum Generator](http://ipsum.ecxol.net/) - Offers option to pepper original lorem ipsum with different flavoring. `lang-French` `Polysource`
 * [Japanese Ipsum (日本語 Ipsum)](https://nihongoipsum.com/) - Generates Japanese text, including hiragana, katakana, and kanji. `lang-Japanese`
