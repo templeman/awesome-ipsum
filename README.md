@@ -57,7 +57,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Lipsum.pro](http://lipsum.pro/) - A fast, mouse-friendly lorem ipsum generator.
 * [Lorem 2](http://www.lorem2.com/) - Static lorem ipsum.
 * [Lorem Ipsum](http://www.lipsum.com/) - The Original.
-* [Lorem Ipsum 2.0](http://lipsum.ahyeah.nl/) - Dynamically sourced from social media, but appears a bit broken.
 * [Lorem Ipsum Generator](http://www.ipsum-generator.com/) - Standard lorem ipsum with markup options. `HTML`
 * [Lorem Ipsum Generator](http://www.loremipsumgenerator.org/) - Generates standard lorem ipsum.
 * [Lorem Ipsum Generator](http://www.procato.com/lipsum/) - Generates standard lorem ipsum, with options. `HTML`
