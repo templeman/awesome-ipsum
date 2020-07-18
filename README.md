@@ -153,7 +153,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Joyce Ipsum](http://joyceipsum.com/ulysses/) - Featuring James Joyce's "Ulysses".
 - [Lit Ipsum](https://litipsum.com/) - Classic literature ipsum with texts from Project Gutenberg. Click and drag to copy to clipboard. Responsive. `AJAX` `API` `HTML` `Polysource`
 - [Lorem Gibson](http://loremgibson.com/) - Featuring the works of William Gibson.
-- [Schmipsum](http://www.schmipsum.com/) - Featuring a variety of interesting literary and historical sources. `Polysource` `API`
 
 
 ### :cyclone: Miscellaneous
