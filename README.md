@@ -224,7 +224,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Any Ipsum](https://wordpress.org/plugins-wp/any-ipsum/) - WordPress plugin to roll your own custom lorem ipsum generator. [Source on GitHub](https://github.com/petenelson/wp-any-ipsum).
 - [aozora](https://github.com/fand/aozora) - CLI that can pull full text from [Aozora Bunko(青空文庫)](http://www.aozora.gr.jp/). `npm` `GitHub` `lang-Japanese`
 - [Emmet](http://docs.emmet.io/abbreviations/lorem-ipsum/) - Plugin available for [all these editors](http://emmet.io/download/).
-- [LittleIpsum](http://littleipsum.com/) - Tiny, standalone Latin text generator for OS X.
+- [LittleIpsum](https://apps.apple.com/ca/app/littleipsum/id405772121) - Tiny, standalone Latin text generator for OS X.
 - [Sublime Text Packages](https://packagecontrol.io/search/ipsum) - Placeholder packages for Sublime Text.
 - [RoughDraft.js](http://ndreckshage.github.io/roughdraft.js/) ([repo](https://github.com/ndreckshage/roughdraft.js)) - Quickly create an interactive HTML mock-up, with minimal html markup and no server side code.
 
