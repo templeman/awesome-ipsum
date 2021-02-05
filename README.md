@@ -66,6 +66,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The Amazing Lorem Ipsum Generator](http://www.i-r-genius.com/lipsum.html) - Classic lorem ipsum generator with a number of formatting options.
 - [Wizipsum](http://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. `GitHub` `npm` `Chrome` `Polysource`
 
+
 ## :roller_coaster: Whimsical
 
 
@@ -159,6 +160,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Bro Ipsum](http://www.broipsum.com/) - One copy to Bro them all.
 - [Bullshit Ipsum](http://bullshitipsum.com/) - Marketing-flavored buzzwords and phrases. Free of swear words despite the name.
+- [Business Ipsum](https://randommer.io/business-lorem-ipsum-text) - Business Lorem Ipsum.
 - [Corporate Ipsum](http://www.cipsum.com/) - Designed to facilitate the needs of corporate paper-pushers everywhere.
 - [Fyre Ipsum](https://fyreipsum.com/) - Sourced from the Fyre Festival pitch deck (with a little Magnises thrown in).
 - [Gothic Ipsum](http://gothicipsum.com) - A dreadful Lorem Ipsum generator.
