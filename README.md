@@ -216,6 +216,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Malevole](http://www.malevole.com/mv/misc/text/) - Featuring TV theme songs.
 - [Neah](http://nckg.github.io/neah/) - Featuring quotes from Arnold Schwarzenegger characters. `GitHub` `NPM`
 - [Partridge Ipsum](https://parall.ax/partridge-ipsum) - Featuring Alan Partridge.
+- [Rick and Morty Ipsum](http://loremricksum.com/) - Internet's schwiftiest lorem ipsum generator. `API`
+- [Rick and Morty Ipsum Generator](https://felipemotabr.github.io/rick-and-morty-ipsum-generator/)
 - [Riker Ipsum](http://www.rikeripsum.com) - Featuring the officer from <i>Star Trek</i>.
 - [Samuel L. Ipsum](http://slipsum.com/) - Featuring Samuel L. Jackson.
 - [Star Trek Ipsum](https://vlad-saling.github.io/star-trek-ipsum/) - Featuring handpicked quotes from the television series <i>Star Trek: The Next Generation</i>. `GitHub` `HTML`
