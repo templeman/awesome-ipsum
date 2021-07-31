@@ -62,7 +62,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Lorem Ipsum Generator](http://www.loremipsumgenerator.org/) - Generates standard lorem ipsum.
 - [Lorem Markdown](http://jaspervdj.be/lorem-markdownum/) - Generates text structured with markdown. `Markdown` `API` `GitHub`
 - [Loripsum](http://www.loripsum.net/) - Full-featured generator of standard lorem ipsum. `HTML` `API`
-- [RandomText](http://www.randomtext.me/) - Generate standard lorem ipsum or plain old gibberish, with additional options. `HTML` `API`
 - [The Amazing Lorem Ipsum Generator](http://www.i-r-genius.com/lipsum.html) - Classic lorem ipsum generator with a number of formatting options.
 - [Wizipsum](http://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. `GitHub` `npm` `Chrome` `Polysource`
 
