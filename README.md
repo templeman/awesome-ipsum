@@ -167,6 +167,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Ipsum Generator](http://ipsum.ecxol.net/) - Offers option to pepper original lorem ipsum with different flavoring. `lang-French` `Polysource`
 - [Japanese Ipsum (日本語 Ipsum)](https://nihongoipsum.com/) - Generates Japanese text, including hiragana, katakana, and kanji. `lang-Japanese`
 - [Lorem Fucking Ipsum](http://loremfuckingipsum.com/) - Placeholder text for people who have some fucking passion!
+- [Mattress Ipsum](https://craig1123.github.io/mattress-ipsum/) - The most comfortable Lorem Ipsum Generator. Snuggle in!
 - [Metaphorpsum](http://metaphorpsum.com/) - A wise– if perhaps slightly pedantic– generator of metaphor. `GitHub` `API`
 - [Modernipsum](http://www.modernipsum.com/) - An artier lorem ipsum generator.
 - [Monocle Ipsum](http://www.monocleipsum.com/) `GitHub`
