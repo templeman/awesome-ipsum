@@ -7,39 +7,42 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
-- [Legend](#legend)
-- [Practical](#briefcase-practical)
-- [Whimsical](#roller_coaster-whimsical)
-    - [Animals](#rabbit-animals)
-    - [Eras](#tophat-eras)
-    - [Famous Individuals](#sunglasses-famous-individuals)
-    - [Music](#microphone-music)
-    - [Food and Drink](#pizza-food-and-drink)
-    - [Geographic and Dialects](#earth_africa-geographic-and-dialects)
-    - [Literature](#books-literature)
-    - [Miscellaneous](#cyclone-miscellaneous)
-    - [Sports and Fitness](#bicyclist-sports-and-fitness)
-    - [TV and Film](#movie_camera-tv-and-film)
-- [Tools, Apps, and Extensions](#wrench-tools-apps-and-extensions)
-- [Contribute](#contribute)
-- [TODO](#todo)
+- [Lorem ipsum, dolor sit amet. ![Awesome](https://github.com/sindresorhus/awesome)](#lorem-ipsum-dolor-sit-amet-)
+  - [Table of Contents](#table-of-contents)
+  - [Legend](#legend)
+  - [:briefcase: Practical](#briefcase-practical)
+  - [:roller_coaster: Whimsical](#roller_coaster-whimsical)
+    - [:rabbit: Animals](#rabbit-animals)
+    - [:tophat: Eras](#tophat-eras)
+    - [:sunglasses: Famous Individuals](#sunglasses-famous-individuals)
+    - [:microphone: Music](#microphone-music)
+    - [:pizza: Food and Drink](#pizza-food-and-drink)
+    - [:earth_africa: Geographic and Dialects](#earth_africa-geographic-and-dialects)
+    - [:books: Literature](#books-literature)
+    - [:cyclone: Miscellaneous](#cyclone-miscellaneous)
+    - [:bicyclist: Sports and Fitness](#bicyclist-sports-and-fitness)
+    - [:movie_camera: TV and Film](#movie_camera-tv-and-film)
+  - [:wrench: Tools, Apps, and Extensions](#wrench-tools-apps-and-extensions)
+  - [Contribute](#contribute)
+  - [TODO](#todo)
+  - [License](#license)
 
 
 ## Legend
 
 *Not all generators are created equal. Generators that have certain useful features are marked with tag(s) from the table below.*
 
-| Tag           | Attribute                                            |
-| ------------- | -------------                                        |
-| `AJAX`        | Supports cross-domain AJAX requests                  |
-| `API`         | Associated API                                       |
-| `GitHub`      | Associated GitHub repo                               |
-| `HTML`        | Option to include HTML tags with output              |
-| `JSON`        | Option for JSON output                               |
-| `lang-[*]`    | Includes non-English language(s)                     |
-| `Markdown`    | Option for Markdown output                           |
-| `NPM`         | Available as Node module                             |
-| `Polysource`  | Option to choose from among multiple content sources |
+| Tag          | Attribute                                            |
+| ------------ | ---------------------------------------------------- |
+| `AJAX`       | Supports cross-domain AJAX requests                  |
+| `API`        | Associated API                                       |
+| `GitHub`     | Associated GitHub repo                               |
+| `HTML`       | Option to include HTML tags with output              |
+| `JSON`       | Option for JSON output                               |
+| `lang-[*]`   | Includes non-English language(s)                     |
+| `Markdown`   | Option for Markdown output                           |
+| `NPM`        | Available as Node module                             |
+| `Polysource` | Option to choose from among multiple content sources |
 
 
 ## :briefcase: Practical
@@ -56,6 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
 - [Legal Ipsum](http://legalipsum.com/) - Generates garbled legalese (or just regular legalese, really).
 - [Lipsum.pro](http://lipsum.pro/) - A fast, mouse-friendly lorem ipsum generator.
+- [Logo Ipsum](https://logoipsum.com/) - Free SVG placeholder logo generator.
 - [Lorem 2](http://www.lorem2.com/) - Static lorem ipsum.
 - [Lorem Ipsum](http://www.lipsum.com/) - The Original.
 - [Lorem Ipsum Generator](http://www.ipsum-generator.com/) - Standard lorem ipsum with markup options. `HTML`
