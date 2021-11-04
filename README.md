@@ -178,7 +178,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The Rational Placeholder Text Generator](https://www.boom-online.co.uk/lorem-ipsum/) - Enter a topic of
   your choice and this generator will fetch relevant content from Wikipedia.
 - [Time Cube Ipsum](http://www.timecubeipsum.com/) - You can not comprehend the actual ipsum in a single rotation of Earth.
-- [Trollem Ipsum](http://trollemipsum.appspot.com/) - Generates different results based on your relationship with Apple. `API`
 - [Web 2.0 Ipsum](http://web20ipsum.com/) - Featuring Web 2.0 startup names.
 - [Weed Ipsum](http://weedipsum.com) - Dank text nuggets for the cannabiseur.
 - [Wikipsum](http://wikipsum.com/) - Randomly sourced from Wikipedia.
