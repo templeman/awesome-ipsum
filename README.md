@@ -119,7 +119,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Pizza Ipsum](https://pizzaipsum.com) - Ipsum hot from the oven.
 - [Ramen Ipsum](https://ramenipsum.herokuapp.com) - A brothier Lorem Ipsum generator. `API` `GitHub` `lang-Japanese` `lang-Thai`
 - [Tuna Ipsum](http://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
-- [Veggie Ipsum](http://veggieipsum.com/) - The vegetarian alternative to Bacon Ipsum.
 - [Wine Ipsum](https://www.wineipsum.com/) - In vino veritas.
 
 
