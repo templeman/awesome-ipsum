@@ -130,7 +130,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Durham Ipsum](http://durhamipsum.com/) - Ipsum from Durham, North Carolina. `Polysource`
 - [Gangsta Lorem Ipsum](http://lorizzle.nl/) - Fo shizzle.
 - [Hacker Ipsum](http://hackeripsum.com/) - Hack the pentagon? (y/n):
-- [Hella Ipsum](http://hellaipsum.com/) - Featuring Bay Area lingo and slang. `API`
 - [Hillbilly Ipsum](http://hillbillyipsum.com/) - Ain't laid an egg since way last spring.
 - [Hippie Ipsum](http://www.hippieipsum.me/) - Not to be confused with the popular Hipster Ipsum. `GitHub` `API`
 - [Hipster Ipsum](http://hipsum.co/) - Artisanal filler text for your site or project. `API`
