@@ -204,7 +204,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Heisenburg Ipsum](http://heisenbergipsum.com/) - Featuring various characters from the TV show <i>Breaking Bad</i>. `Polysource`
 - [IT Crowd Ipsum](http://www.itcrowdipsum.com/) - Featuring quotes from the British sitcom.
 - [Jeffsum](http://jeffsum.com/) - Featuring Jeff Goldblum.
-- [Malevole](http://www.malevole.com/mv/misc/text/) - Featuring TV theme songs.
+- [Vole Text Generator](https://vole.wtf/text-generator/) - Featuring TV theme songs.
 - [Neah](http://nckg.github.io/neah/) - Featuring quotes from Arnold Schwarzenegger characters. `GitHub` `NPM`
 - [Partridge Ipsum](https://parall.ax/partridge-ipsum) - Featuring Alan Partridge.
 - [Rick and Morty Ipsum](http://loremricksum.com/) - Internet's schwiftiest lorem ipsum generator. `API`
