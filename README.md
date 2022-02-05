@@ -51,7 +51,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Faux Texte](http://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various styles. `HTML` `lang-French` `Polysource`
 - [Greekum Ipsum](https://greekum.netlify.com/) - Generate random greek sentences, words & paragraphs. `API` `lang-Greek` `GitHub` `NPM`
 - [HTML-ipsum](http://html-ipsum.com/) ([repo](https://github.com/chriscoyier/HTML-Ipsum)) - Provides pre-filled HTML patterns. `HTML`
-- [Ippy.io](https://www.ippy.io) - Standard lorem ipsum text with a user friendly interface.
 - [Jipsum](http://jipsum.com/) - Randomized lorem ipsum. `HTML`
 - [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
 - [Legal Ipsum](http://legalipsum.com/) - Generates garbled legalese (or just regular legalese, really).
