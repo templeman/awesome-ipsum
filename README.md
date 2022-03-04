@@ -95,6 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Obama Ipsum](http://obamaipsum.com/) - Yes we can.
 - [Sagan Ipsum](http://saganipsum.com/) - Featuring American scientist and author Carl Sagan.
 - [The Vatican Assassin](http://vaticanassass.in/) - Featuring quotes from Charlie Sheen. `HTML`
+- [Trumpem Ipsum](http://trumpemipsum.com/) - Featuring quotes from the 45th president of the United States.
 
 
 ### :microphone: Music
