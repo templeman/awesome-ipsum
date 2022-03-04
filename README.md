@@ -89,6 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Busey Ipsum](http://www.buseyipsum.com/) - Featuring Gary Busey.
 - [Chuck Norris Facts](http://vincentloy.github.io/chuck_facts_ipsum/) - Chuck Norris does not sleep. He waits.
 - [Dalaipsum](http://dalaipsum.com/) - Featuring quotes by His Holiness the XIVth Dalai Lama. `HTML`
+- [Donald Trump Ipsum](http://donaldtrumpipsum.com/) - I have the best words.
 - [Mussum Ipsum](http://mussumipsum.com/) - Featuring the [Brazilian actor and musician](https://en.wikipedia.org/wiki/Mussum). `lang-Portuguese`
 - [Neil deGrasse Tyson Ipsum](http://neilipsum.pw/) - No one is dumb who is curious.
 - [Nietzsche Ipsum](http://nietzsche-ipsum.com/) - Ecce Ipsum.
