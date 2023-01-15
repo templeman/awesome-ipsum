@@ -122,7 +122,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### :earth_africa: Geographic and Dialects
 
 - [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator. `lang-German`
-- [Bogan Ipsum](http://txtrdr.com/boganipsum/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
+- [Bogan Ipsum](https://boganipsum.com.au/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
 - [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Ipsum for Bristolians.
 - [Chiquito Ipsum](http://www.chiquitoipsum.com/) `lang-Spanish`
 - [Durham Ipsum](http://durhamipsum.com/) - Ipsum from Durham, North Carolina. `Polysource`
