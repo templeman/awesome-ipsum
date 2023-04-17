@@ -178,7 +178,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Baseball Ipsum](http://baseballipsum.apphb.com/) - Ray. People will come, Ray. `GitHub` `API`
 - [Oilers Ipsum](http://www.oilersipsum.com/) - Lorem Ipsum for Oilers fans! `GitHub`
 - [Skate Ipsum](http://skateipsum.com/) - Shred! `API` `GitHub` `JSON`
-- [Ski Ipsum](http://skiingipsum.com/) - Shralp the Pow!
 
 
 ### :movie_camera: TV and Film
