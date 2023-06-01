@@ -131,7 +131,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Lancashire Ipsum](https://www.quentinjamesdesign.co.uk/lancashire-ipsum/) - Champion filler text from Lancashire, UK.
 - [Melbourne Ipsum](http://www.melbourneipsum.com.au/) - The ipsum of Melbourne, Australia.
 - [Pirate Ipsum](http://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea!
-- [Pommy Ipsum](http://www.pommyipsum.com/) - The official lorem ipsum filler text generator of the British Empire. `HTML`
 
 
 ### :books: Literature
