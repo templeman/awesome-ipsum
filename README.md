@@ -179,7 +179,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### :movie_camera: TV and Film
 
 - [Bluth Ipsum](http://bluthipsum.com/) - Featuring the family from <i>Arrested Development</i>.
-- [Borat Ipsum](http://boratipsum.com/) - For Make Benefit Glorious Nation of Kazakhstan.
 - [DeLorean Ipsum](http://www.deloreanipsum.com/) - Based on the <i>Back to the Future</i> films. `GitHub`
 - [DevLorem](https://devlorem.kovah.de/) - Featuring various actors like Jim Carrey, Morgan Freeman and others. `GitHub` `API` `JSON`
 - [Doctor Ipsum](http://doctoripsum.com/) - Featuring Doctor Who. `GitHub`
