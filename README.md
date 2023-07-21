@@ -147,7 +147,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### :cyclone: Miscellaneous
 
 - [Bro Ipsum](http://www.broipsum.com/) - One copy to Bro them all.
-- [Bullshit Ipsum](http://bullshitipsum.com/) - Marketing-flavored buzzwords and phrases. Free of swear words despite the name.
 - [Business Ipsum](https://randommer.io/business-lorem-ipsum-text) - Business Lorem Ipsum.
 - [Corporate Ipsum](http://www.cipsum.com/) - Designed to facilitate the needs of corporate paper-pushers everywhere.
 - [Fyre Ipsum](https://fyreipsum.com/) - Sourced from the Fyre Festival pitch deck (with a little Magnises thrown in).
