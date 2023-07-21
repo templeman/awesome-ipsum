@@ -174,7 +174,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### :bicyclist: Sports and Fitness
 
 - [Baseball Ipsum](http://baseballipsum.apphb.com/) - Ray. People will come, Ray. `GitHub` `API`
-- [Oilers Ipsum](http://www.oilersipsum.com/) - Lorem Ipsum for Oilers fans! `GitHub`
 
 
 ### :movie_camera: TV and Film
