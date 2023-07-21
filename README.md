@@ -92,7 +92,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nietzsche Ipsum](http://nietzsche-ipsum.com/) - Ecce Ipsum.
 - [Obama Ipsum](http://obamaipsum.com/) - Yes we can.
 - [Sagan Ipsum](http://saganipsum.com/) - Featuring American scientist and author Carl Sagan.
-- [Trumpem Ipsum](http://trumpemipsum.com/) - Featuring quotes from the 45th president of the United States.
 
 
 ### :microphone: Music
