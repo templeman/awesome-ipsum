@@ -147,6 +147,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Bro Ipsum](http://www.broipsum.com/) - One copy to Bro them all.
 - [Business Ipsum](https://randommer.io/business-lorem-ipsum-text) - Business Lorem Ipsum.
+- [Coder Ipsum](https://coder-ipsum.tech/) - Thought-leadership synergistic programming filler text. `GitHub` `NPM`
 - [Corporate Ipsum](http://www.cipsum.com/) - Designed to facilitate the needs of corporate paper-pushers everywhere.
 - [Fyre Ipsum](https://fyreipsum.com/) - Sourced from the Fyre Festival pitch deck (with a little Magnises thrown in).
 - [Gothic Ipsum](http://gothicipsum.com) - A dreadful Lorem Ipsum generator.
