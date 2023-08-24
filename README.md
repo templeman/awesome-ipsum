@@ -97,6 +97,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### :microphone: Music
 
 - [DJ Khaled Ipsum](http://khaledipsum.com/) - Featuring DJ Khaled.
+- [Dylan Ipsum](https://brody.fyi/tools/dylan-ipsum) - Featuring lyrics from Bob Dylan's extensive catalogue. `GitHub` `HTML` `NPM`
 - [Katy Perry Ipsum](http://katyperryipsum.com/) - Featuring Katy Perry lyrics.
 - [Rush Ipsum](https://rushipsum.herokuapp.com) - Lorem Ipsum…with a 1000% more Rush. `GitHub`
 
