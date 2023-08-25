@@ -187,6 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Game of Thrones Ipsum](http://gameofthronesipsum.richfinelli.com/) - Choose between different languages and dialects from the hit TV series. `Polysource`
 - [Godfather Ipsum](https://godfatheripsum.github.io) - An ipsum generator with iconic quotes from The Godfather trilogy: "I'm gonna make him an ipsum he can't refuse". `GitHub`
 - [Gosling Ipsum](http://www.rygo-ipsum.com/) - Featuring quotes from Ryan Gosling characters. `GitHub`
+- [Grey's Anatomy Lorem Ipsum Generator](https://greysanatomyloremipsum.netlify.app/) - Featuring words from the long-running ABC series. `GitHub`
 - [Heisenburg Ipsum](http://heisenbergipsum.com/) - Featuring various characters from the TV show <i>Breaking Bad</i>. `Polysource`
 - [Jeffsum](http://jeffsum.com/) - Featuring Jeff Goldblum.
 - [Vole Text Generator](https://vole.wtf/text-generator/) - Featuring TV theme songs.
