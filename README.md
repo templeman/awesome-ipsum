@@ -171,11 +171,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Wikipsum](http://wikipsum.com/) - Randomly sourced from Wikipedia.
 
 
-### :bicyclist: Sports and Fitness
-
-- [Baseball Ipsum](http://baseballipsum.apphb.com/) - Ray. People will come, Ray. `GitHub` `API`
-
-
 ### :movie_camera: TV and Film
 
 - [Bluth Ipsum](http://bluthipsum.com/) - Featuring the family from <i>Arrested Development</i>.
