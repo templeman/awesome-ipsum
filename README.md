@@ -120,7 +120,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator. `lang-German`
 - [Bogan Ipsum](https://boganipsum.com.au/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
-- [Brizzle Ipsum](http://brizzle-ipsum.herokuapp.com/) - Ipsum for Bristolians.
 - [Chiquito Ipsum](http://www.chiquitoipsum.com/) `lang-Spanish`
 - [Durham Ipsum](http://durhamipsum.com/) - Ipsum from Durham, North Carolina. `Polysource`
 - [Gangsta Lorem Ipsum](http://lorizzle.nl/) - Fo shizzle.
