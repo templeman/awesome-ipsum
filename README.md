@@ -18,7 +18,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
     - [Geographic and Dialects](#earth_africa-geographic-and-dialects)
     - [Literature](#books-literature)
     - [Miscellaneous](#cyclone-miscellaneous)
-    - [Sports and Fitness](#bicyclist-sports-and-fitness)
     - [TV and Film](#movie_camera-tv-and-film)
 - [Tools, Apps, and Extensions](#wrench-tools-apps-and-extensions)
 - [Contribute](#contribute)
