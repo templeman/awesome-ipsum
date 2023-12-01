@@ -176,7 +176,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [DevLorem](https://devlorem.kovah.de/) - Featuring various actors like Jim Carrey, Morgan Freeman and others. `GitHub` `API` `JSON`
 - [Doctor Ipsum](http://doctoripsum.com/) - Featuring Doctor Who. `GitHub`
 - [Fillerama](http://fillerama.io/) TV and Film. Choose from <i>Futurama</i>, <i>Arrested Development</i>, <i>Doctor Who</i>, <i>Dexter</i>, <i>Monty Python and the Holy Grail</i>, <i>The Simpsons</i>, <i>Star Wars</i>, and vanilla Lorem Ipsum. `Polysource`
-- [Forcem Ipsum](http://forcemipsum.com/) - May the Ipsum be with you. `GitHub` `NPM`
+- [Forcem Ipsum](http://forcemipsum.com/) - May the Ipsum be with you. `API` `GitHub` `NPM`
 - [Game of Thrones Ipsum](http://gameofthronesipsum.richfinelli.com/) - Choose between different languages and dialects from the hit TV series. `Polysource`
 - [Godfather Ipsum](https://godfatheripsum.github.io) - An ipsum generator with iconic quotes from The Godfather trilogy: "I'm gonna make him an ipsum he can't refuse". `GitHub`
 - [Gosling Ipsum](http://www.rygo-ipsum.com/) - Featuring quotes from Ryan Gosling characters. `GitHub`
