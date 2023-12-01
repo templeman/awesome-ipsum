@@ -111,7 +111,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cupcake Ipsum](http://www.cupcakeipsum.com/) - The sweetest ipsum.
 - [Liquor Ipsum](http://liquoripsum.com/) - A stiffer lorem ipsum generator.
 - [Pizza Ipsum](https://pizzaipsum.com) - Ipsum hot from the oven.
-- [Ramen Ipsum](https://ramenipsum.herokuapp.com) - A brothier Lorem Ipsum generator. `API` `GitHub` `lang-Japanese` `lang-Thai`
 - [Tuna Ipsum](http://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
 - [Wine Ipsum](https://www.wineipsum.com/) - In vino veritas.
 
