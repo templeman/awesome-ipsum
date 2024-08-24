@@ -170,7 +170,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bluth Ipsum](http://bluthipsum.com/) - Featuring the family from <i>Arrested Development</i>.
 - [DeLorean Ipsum](http://www.deloreanipsum.com/) - Based on the <i>Back to the Future</i> films. `GitHub`
 - [DevLorem](https://devlorem.kovah.de/) - Featuring various actors like Jim Carrey, Morgan Freeman and others. `GitHub` `API` `JSON`
-- [Doctor Ipsum](http://doctoripsum.com/) - Featuring Doctor Who. `GitHub`
 - [Fillerama](http://fillerama.io/) TV and Film. Choose from <i>Futurama</i>, <i>Arrested Development</i>, <i>Doctor Who</i>, <i>Dexter</i>, <i>Monty Python and the Holy Grail</i>, <i>The Simpsons</i>, <i>Star Wars</i>, and vanilla Lorem Ipsum. `Polysource`
 - [Forcem Ipsum](http://forcemipsum.com/) - May the Ipsum be with you. `API` `GitHub` `NPM`
 - [Game of Thrones Ipsum](https://game-of-thrones-ipsum.com/) - Choose between different languages from the hit TV series. `Polysource`
