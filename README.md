@@ -48,7 +48,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CorporateLorem](https://corporatelorem.kovah.de/) - Lorem Ipsum with real articles from newspapers and blogs. `GitHub` `API` `JSON`
 - [Dummy Text Generator](http://www.dummytextgenerator.com/) - Regular generator with some special options like headings and subheadings.
 - [Faux Texte](http://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various styles. `HTML` `lang-French` `Polysource`
-- [HTML-ipsum](http://html-ipsum.com/) ([repo](https://github.com/chriscoyier/HTML-Ipsum)) - Provides pre-filled HTML patterns. `HTML`
 - [Jipsum](http://jipsum.com/) - Randomized lorem ipsum. `HTML`
 - [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
 - [Lipsum.pro](http://lipsum.pro/) - A fast, mouse-friendly lorem ipsum generator.
