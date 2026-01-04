@@ -113,7 +113,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bogan Ipsum](https://boganipsum.com.au/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
 - [Durham Ipsum](http://durhamipsum.com/) - Ipsum from Durham, North Carolina. `Polysource`
 - [Gangsta Lorem Ipsum](http://lorizzle.nl/) - Fo shizzle.
-- [Hacker Ipsum](http://hackeripsum.com/) - Hack the pentagon? (y/n):
 - [Hillbilly Ipsum](http://hillbillyipsum.com/) - Ain't laid an egg since way last spring.
 - [Hipster Ipsum](http://hipsum.co/) - Artisanal filler text for your site or project. `API`
 - [Lancashire Ipsum](https://www.quentinjamesdesign.co.uk/lancashire-ipsum/) - Champion filler text from Lancashire, UK.
