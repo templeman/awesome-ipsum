@@ -11,7 +11,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Practical](#briefcase-practical)
 - [Whimsical](#roller_coaster-whimsical)
     - [Animals](#rabbit-animals)
-    - [Eras](#tophat-eras)
     - [Famous Individuals](#sunglasses-famous-individuals)
     - [Music](#microphone-music)
     - [Food and Drink](#pizza-food-and-drink)
@@ -69,11 +68,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cat Ipsum](http://www.catipsum.com/) - Featuring our furry feline friends.
 - [Doggo Ipsum](https://doggoipsum.com/) - Featuring doggos and puppers.
 - [Zombie Ipsum](http://www.zombieipsum.com/) - Frightful filler for your damned designs.
-
-
-### :tophat: Eras
-
-- [90s Ipsum](http://justinjay.wang/90s-ipsum/) - Dope!
 
 
 ### :sunglasses: Famous Individuals
