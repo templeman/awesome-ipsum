@@ -50,6 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Jipsum](http://jipsum.com/) - Randomized lorem ipsum. `HTML`
 - [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
 - [Lipsum.pro](http://lipsum.pro/) - A fast, mouse-friendly lorem ipsum generator.
+- [Lipsum Generator](https://github.com/phucbm/lipsum-generator) - Generates lorem ipsum in sentences, paragraphs, or HTML lists. Available as a [Chrome extension](https://chrome.google.com/webstore/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna) and a [web app](https://lipsum-generator.netlify.app/). `GitHub` `HTML` `Chrome`
 - [Lorem 2](http://www.lorem2.com/) - Static lorem ipsum.
 - [Lorem Ipsum](http://www.lipsum.com/) - The Original.
 - [Lorem Ipsum Generator](http://www.loremipsumgenerator.org/) - Generates standard lorem ipsum.
