@@ -45,6 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Adhesiontext](http://adhesiontext.com/) - Unique generator can serve up words that only include specified characters. `lang-French` `lang-German` `lang-Spanish` `lang-Catalan` `lang-Portuguese` `lang-Dutch` `lang-Turkish` `lang-Slovene`
 - [Blind Text Generator](http://www.blindtextgenerator.com/lorem-ipsum) - Choose from various flavors of traditional dummy text. `HTML` `Polysource` `lang-Russian` `lang-Czech` `lang-Italian` `lang-Spanish` `lang-French` `lang-German`
 - [CorporateLorem](https://corporatelorem.kovah.de/) - Lorem Ipsum with real articles from newspapers and blogs. `GitHub` `API` `JSON`
+- [FunGenerators](https://fungenerators.com/random/lorem-ipsum) - Lorem Ipsum with lot of variations in one place. `API` `JSON`
 - [Dummy Text Generator](http://www.dummytextgenerator.com/) - Regular generator with some special options like headings and subheadings.
 - [Faux Texte](http://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various styles. `HTML` `lang-French` `Polysource`
 - [Jipsum](http://jipsum.com/) - Randomized lorem ipsum. `HTML`
