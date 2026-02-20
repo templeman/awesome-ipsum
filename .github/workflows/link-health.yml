@@ -1,4 +1,3 @@
-# .github/workflows/link-health.yml
 name: Directory link health
 
 on:
@@ -14,11 +13,11 @@ jobs:
       contents: read
       issues: write
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
 
       # Cache to reduce stress/rate-limits and speed up runs
       - name: Restore lychee cache
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
@@ -51,7 +50,7 @@ jobs:
 
       - name: Create issue when fail
         if: steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         with:
           title: Automated Link Checker Report for ${{ steps.date.outputs.now }}
           content-filepath: ./lychee/out.md
