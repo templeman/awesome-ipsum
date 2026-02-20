@@ -20,7 +20,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
     - [TV and Film](#movie_camera-tv-and-film)
 - [Tools, Apps, and Extensions](#wrench-tools-apps-and-extensions)
 - [Contribute](#contribute)
-- [TODO](#todo)
 
 
 ## Legend
@@ -186,13 +185,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Contribute
 
 Know of an awesome ipsum generator that should be on this list? Let's add it! Start by reading the [contribution guidelines](contributing.md).
-
-
-## TODO
-
-- Further categorize with tags
-- Link-checking function to prune dead links?
-- Add references to more plugins and tools
 
 
 ## License
