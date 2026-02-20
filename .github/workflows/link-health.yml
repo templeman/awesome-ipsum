@@ -46,12 +46,12 @@ jobs:
 
       - name: Get current date
         id: date
-        run: echo "{now}={$(date +'%d-%m-%Y')}" >> $GITHUB_OUTPUT
+        run: echo "NOW=$(date +'%d-%m-%Y')" >> $GITHUB_OUTPUT
 
       - name: Create issue when fail
         if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v6
         with:
-          title: Automated Link Checker Report for ${{ steps.date.outputs.now }}
+          title: Automated Link Checker Report for ${{ steps.date.outputs.NOW }}
           content-filepath: ./lychee/out.md
           labels: report, automated issue
