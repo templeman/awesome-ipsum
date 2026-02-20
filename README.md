@@ -42,22 +42,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## :briefcase: Practical
 
-- [Adhesiontext](http://adhesiontext.com/) - Unique generator can serve up words that only include specified characters. `lang-French` `lang-German` `lang-Spanish` `lang-Catalan` `lang-Portuguese` `lang-Dutch` `lang-Turkish` `lang-Slovene`
-- [Blind Text Generator](http://www.blindtextgenerator.com/lorem-ipsum) - Choose from various flavors of traditional dummy text. `HTML` `Polysource` `lang-Russian` `lang-Czech` `lang-Italian` `lang-Spanish` `lang-French` `lang-German`
-- [CorporateLorem](https://corporatelorem.kovah.de/) - Lorem Ipsum with real articles from newspapers and blogs. `GitHub` `API` `JSON`
-- [Dummy Text Generator](http://www.dummytextgenerator.com/) - Regular generator with some special options like headings and subheadings.
-- [Faux Texte](http://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various styles. `HTML` `lang-French` `Polysource`
-- [Jipsum](http://jipsum.com/) - Randomized lorem ipsum. `HTML`
-- [Journo Ipsum](http://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
-- [Lipsum.pro](http://lipsum.pro/) - A fast, mouse-friendly lorem ipsum generator.
-- [Lorem 2](http://www.lorem2.com/) - Static lorem ipsum.
-- [Lorem Ipsum](http://www.lipsum.com/) - The Original.
+- [Adhesiontext](https://adhesiontext.com/) - Unique generator can serve up words that only include specified characters. `lang-French` `lang-German` `lang-Spanish` `lang-Catalan` `lang-Portuguese` `lang-Dutch` `lang-Turkish` `lang-Slovene`
+- [Blind Text Generator](https://www.blindtextgenerator.com/lorem-ipsum) - Choose from various flavors of traditional dummy text. `HTML` `Polysource` `lang-Russian` `lang-Czech` `lang-Italian` `lang-Spanish` `lang-French` `lang-German`
+- [CorporateLorem](https://corporatelorem.woblick.dev/) - Lorem Ipsum with real articles from newspapers and blogs. `GitHub` `API` `JSON`
+- [Dummy Text Generator](https://www.dummytextgenerator.com/) - Regular generator with some special options like headings and subheadings.
+- [Faux Texte](https://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various styles. `HTML` `lang-French` `Polysource`
+- [Jipsum](https://jipsum.com/) - Randomized lorem ipsum. `HTML`
+- [Journo Ipsum](https://www.niemanlab.org/journo-ipsum/) - A lorem ipsum generator for future-of-news nerds.
+- [Lipsum.pro](https://lipsum.pro/) - A fast, mouse-friendly lorem ipsum generator.
+- [Lorem 2](https://lorem2.com/) - Static lorem ipsum.
+- [Lorem Ipsum](https://www.lipsum.com/) - The Original.
 - [Lorem Ipsum Generator](http://www.loremipsumgenerator.org/) - Generates standard lorem ipsum.
 - [Lorem Markdown](http://jaspervdj.be/lorem-markdownum/) - Generates text structured with markdown. `Markdown` `API` `GitHub`
 - [Loripsum](http://www.loripsum.net/) - Full-featured generator of standard lorem ipsum. `HTML` `API`
 - [The Amazing Lorem Ipsum Generator](http://www.i-r-genius.com/lipsum.html) - Classic lorem ipsum generator with a number of formatting options.
-- [Wizipsum](http://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. `GitHub` `npm` `Chrome` `Polysource`
-- [WP Ipsum](https://www.codeinwp.com/wp-ipsum-generator/) - Generates a bucketload of WordPress-flavored nonsense. `GitHub`
+- [Wizipsum](https://wizbii.github.io/wizipsum) - Allows you to add, use and share your own content, available as an npm package and Chrome Extension. `GitHub` `npm` `Chrome` `Polysource`
+- [WP Ipsum](https://wpshout.com/wp-ipsum-generator/) - Generates a bucketload of WordPress-flavored nonsense. `GitHub`
 
 
 ## :roller_coaster: Whimsical
@@ -72,15 +72,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### :sunglasses: Famous Individuals
 
-- [Birolipsum](http://izmcm.github.io/birolipsum/) - Featuring the 38th President of Brazil, Jair Bolsonaro. `lang-Portuguese`
-- [Bob Ross Lipsum](http://www.bobrosslipsum.com/) - A happy little lorem ipsum generator. `HTML`
+- [Birolipsum](https://izmcm.github.io/birolipsum/) - Featuring the 38th President of Brazil, Jair Bolsonaro. `lang-Portuguese`
+- [Bob Ross Lipsum](https://www.bobrosslipsum.com/) - A happy little lorem ipsum generator. `HTML`
 - [Busey Ipsum](http://www.buseyipsum.com/) - Featuring Gary Busey.
 - [Chuck Norris Facts](http://vincentloy.github.io/chuck_facts_ipsum/) - Chuck Norris does not sleep. He waits. `GitHub`
 - [Dalaipsum](http://dalaipsum.com/) - Featuring quotes by His Holiness the XIVth Dalai Lama. `HTML`
-- [Mussum Ipsum](http://mussumipsum.com/) - Featuring the [Brazilian actor and musician](https://en.wikipedia.org/wiki/Mussum). `lang-Portuguese`
-- [Neil deGrasse Tyson Ipsum](http://neilipsum.pw/) - No one is dumb who is curious.
+- [Mussum Ipsum](https://mussumipsum.com/) - Featuring the [Brazilian actor and musician](https://en.wikipedia.org/wiki/Mussum). `lang-Portuguese`
+- [Neil deGrasse Tyson Ipsum](https://www.neilipsum.pw/) - No one is dumb who is curious.
 - [Nietzsche Ipsum](http://nietzsche-ipsum.com/) - Ecce Ipsum.
-- [Obama Ipsum](http://obamaipsum.com/) - Yes we can.
+- [Obama Ipsum](https://obamaipsum.com/) - Yes we can.
 - [Sagan Ipsum](http://saganipsum.com/) - Featuring American scientist and author Carl Sagan.
 
 
@@ -94,15 +94,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### :pizza: Food and Drink
 
-- [Bacon Ipsum](http://baconipsum.com/) - Choose between "all meat" or "meat with filler". `API` `GitHub`
+- [Bacon Ipsum](https://baconipsum.com/) - Choose between "all meat" or "meat with filler". `API` `GitHub`
 - [Cajun Ipsum](https://www.cajunipsum.com/) - Some Ipsum for your web page, cher! `lang-CajunFrench`
 - [Cheese Ipsum](http://www.cheeseipsum.co.uk/) - A cheesier Lorem Ipsum generator.
 - [Cheeseburger Ipsum](http://cheeseburgeripsum.com/) - Cheeseburgers know that what you want can also be what you need.
 - [Coffee Ipsum](http://coffeeipsum.com/) - Give your project a caffeine kick. `HTML`
-- [Cupcake Ipsum](http://www.cupcakeipsum.com/) - The sweetest ipsum.
+- [Cupcake Ipsum](https://cupcakeipsum.com/) - The sweetest ipsum.
 - [Liquor Ipsum](http://liquoripsum.com/) - A stiffer lorem ipsum generator.
 - [Pizza Ipsum](https://pizzaipsum.com) - Ipsum hot from the oven.
-- [Tuna Ipsum](http://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
+- [Tuna Ipsum](https://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
 - [Wine Ipsum](https://www.wineipsum.com/) - In vino veritas.
 
 
@@ -111,11 +111,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator. `lang-German`
 - [Bogan Ipsum](https://boganipsum.com.au/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
 - [Durham Ipsum](http://durhamipsum.com/) - Ipsum from Durham, North Carolina. `Polysource`
-- [Gangsta Lorem Ipsum](http://lorizzle.nl/) - Fo shizzle.
+- [Gangsta Lorem Ipsum](https://lorizzle.nl/) - Fo shizzle.
 - [Hillbilly Ipsum](http://hillbillyipsum.com/) - Ain't laid an egg since way last spring.
 - [Hipster Ipsum](http://hipsum.co/) - Artisanal filler text for your site or project. `API`
 - [Lancashire Ipsum](https://www.quentinjamesdesign.co.uk/lancashire-ipsum/) - Champion filler text from Lancashire, UK.
-- [Pirate Ipsum](http://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea!
+- [Pirate Ipsum](https://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea!
 
 
 ### :books: Literature
@@ -130,13 +130,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### :cyclone: Miscellaneous
 
-- [Bro Ipsum](http://www.broipsum.com/) - One copy to Bro them all.
+- [Bro Ipsum](https://www.broipsum.com/) - One copy to Bro them all.
 - [Business Ipsum](https://randommer.io/business-lorem-ipsum-text) - Business Lorem Ipsum.
 - [Coder Ipsum](https://coder-ipsum.tech/) - Thought-leadership synergistic programming filler text. `GitHub` `NPM`
 - [Corporate Ipsum](http://www.cipsum.com/) - Designed to facilitate the needs of corporate paper-pushers everywhere.
 - [Fyre Ipsum](https://fyreipsum.com/) - Sourced from the Fyre Festival pitch deck (with a little Magnises thrown in).
 - [Gothic Ipsum](http://gothicipsum.com) - A dreadful Lorem Ipsum generator.
-- [Ipsum Generator](http://ipsum.ecxol.net/) - Offers option to pepper original lorem ipsum with different flavoring. `lang-French` `Polysource`
+- [Ipsum Generator](https://ipsum.ecxol.net/) - Offers option to pepper original lorem ipsum with different flavoring. `lang-French` `Polysource`
 - [Japanese Ipsum (日本語 Ipsum)](https://nihongoipsum.com/) - Generates Japanese text, including hiragana, katakana, and kanji. `lang-Japanese`
 - [Mattress Ipsum](https://craig1123.github.io/mattress-ipsum/) - The most comfortable Lorem Ipsum Generator. Snuggle in! `GitHub` `NPM`
 - [Metaphorpsum](http://metaphorpsum.com/) - A wise– if perhaps slightly pedantic– generator of metaphor. `GitHub` `API`
@@ -148,27 +148,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The Rational Placeholder Text Generator](https://www.boom-online.co.uk/lorem-ipsum/) - Enter a topic of your choice and this generator will fetch relevant content from Wikipedia.
 - [Time Cube Ipsum](http://www.timecubeipsum.com/) - You can not comprehend the actual ipsum in a single rotation of Earth.
 - [Video Game Ipsum](https://videogameipsum.netlify.app/) - Gaming themed placeholder text. `GitHub`
-- [Web 2.0 Ipsum](http://web20ipsum.com/) - Featuring Web 2.0 startup names.
+- [Web 2.0 Ipsum](https://web20ipsum.com/) - Featuring Web 2.0 startup names.
 - [Weed Ipsum](http://weedipsum.com) - Dank text nuggets for the cannabiseur.
 
 
 ### :movie_camera: TV and Film
 
-- [Bluth Ipsum](http://bluthipsum.com/) - Featuring the family from <i>Arrested Development</i>.
-- [DeLorean Ipsum](http://www.deloreanipsum.com/) - Based on the <i>Back to the Future</i> films. `GitHub`
-- [DevLorem](https://devlorem.kovah.de/) - Featuring various actors like Jim Carrey, Morgan Freeman and others. `GitHub` `API` `JSON`
+- [Bluth Ipsum](https://bluthipsum.com/) - Featuring the family from <i>Arrested Development</i>.
+- [DeLorean Ipsum](https://satoristudio.net/delorean-ipsum/) - Based on the <i>Back to the Future</i> films. `GitHub`
+- [DevLorem](https://devlorem.woblick.dev/) - Featuring various actors like Jim Carrey, Morgan Freeman and others. `GitHub` `API` `JSON`
 - [Fillerama](http://fillerama.io/) TV and Film. Choose from <i>Futurama</i>, <i>Arrested Development</i>, <i>Doctor Who</i>, <i>Dexter</i>, <i>Monty Python and the Holy Grail</i>, <i>The Simpsons</i>, <i>Star Wars</i>, and vanilla Lorem Ipsum. `Polysource`
-- [Forcem Ipsum](http://forcemipsum.com/) - May the Ipsum be with you. `API` `GitHub` `NPM`
+- [Forcem Ipsum](https://forcemipsum.com/) - May the Ipsum be with you. `API` `GitHub` `NPM`
 - [Godfather Ipsum](https://godfatheripsum.github.io) - Leave the gun. Take the ipsum. `GitHub`
 - [Gosling Ipsum](http://www.rygo-ipsum.com/) - Featuring quotes from Ryan Gosling characters. `GitHub`
 - [Grey's Anatomy Lorem Ipsum Generator](https://greysanatomyloremipsum.netlify.app/) - Featuring words from the long-running ABC series. `GitHub`
-- [Heisenburg Ipsum](http://heisenbergipsum.com/) - Featuring various characters from the TV show <i>Breaking Bad</i>. `Polysource`
+- [Heisenburg Ipsum](https://heisenbergipsum.com/) - Featuring various characters from the TV show <i>Breaking Bad</i>. `Polysource`
 - [Jeffsum](http://jeffsum.com/) - Featuring Jeff Goldblum.
 - [Vole Text Generator](https://vole.wtf/text-generator/) - Featuring TV theme songs.
 - [Neah](http://nckg.github.io/neah/) - Featuring quotes from Arnold Schwarzenegger characters. `GitHub` `NPM`
 - [Partridge Ipsum](https://parall.ax/partridge-ipsum) - Featuring Alan Partridge.
 - [Rick and Morty Ipsum Generator](https://felipemotabr.github.io/rick-and-morty-ipsum-generator/) `GitHub`
-- [Samuel L. Ipsum](http://slipsum.com/) - Featuring Samuel L. Jackson.
+- [Samuel L. Ipsum](https://slipsum.com/) - Featuring Samuel L. Jackson.
 - [Star Trek Ipsum](https://vlad-saling.github.io/star-trek-ipsum/) - Featuring handpicked quotes from the television series <i>Star Trek: The Next Generation</i>. `GitHub` `HTML`
 - [Stranger Ipsum](https://stranger-ipsum.robertcooper.me/) - Featuring quotes from the Netflix series <i>Stranger Things</i>. `GitHub`
 - [TV Ipsum](http://www.tvipsum.org/) - Featuring mash-ups sourced from a number of hit cartoon or sci-fi TV shows. `Polysource`
@@ -176,9 +176,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## :wrench: Tools, Apps, and Extensions
 
-- [Any Ipsum](https://wordpress.org/plugins-wp/any-ipsum/) - WordPress plugin to roll your own custom lorem ipsum generator. [Source on GitHub](https://github.com/petenelson/wp-any-ipsum).
-- [aozora](https://github.com/fand/aozora) - CLI that can pull full text from [Aozora Bunko(青空文庫)](http://www.aozora.gr.jp/). `npm` `GitHub` `lang-Japanese`
-- [Emmet](http://docs.emmet.io/abbreviations/lorem-ipsum/) - Plugin available for [all these editors](http://emmet.io/download/).
+- [Any Ipsum](https://wordpress.org/plugins/any-ipsum/) - WordPress plugin to roll your own custom lorem ipsum generator. [Source on GitHub](https://github.com/petenelson/wp-any-ipsum).
+- [aozora](https://github.com/fand/aozora) - CLI that can pull full text from [Aozora Bunko(青空文庫)](https://www.aozora.gr.jp/). `npm` `GitHub` `lang-Japanese`
+- [Emmet](https://docs.emmet.io/abbreviations/lorem-ipsum/) - Plugin available for [all these editors](http://emmet.io/download/).
 - [LittleIpsum](https://apps.apple.com/ca/app/littleipsum/id405772121) - Tiny, standalone Latin text generator for OS X.
 - [Sublime Text Packages](https://packagecontrol.io/search/ipsum) - Placeholder packages for Sublime Text.
 - [RoughDraft.js](http://ndreckshage.github.io/roughdraft.js/) ([repo](https://github.com/ndreckshage/roughdraft.js)) - Quickly create an interactive HTML mock-up, with minimal html markup and no server side code.
@@ -198,6 +198,6 @@ Know of an awesome ipsum generator that should be on this list? Let's add it! St
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Sam Templeman has waived all copyright and related or neighboring rights to this work.
