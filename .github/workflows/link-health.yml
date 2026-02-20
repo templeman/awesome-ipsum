@@ -1,0 +1,58 @@
+# .github/workflows/link-health.yml
+name: Directory link health
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # At 06:00 on Monday: https://crontab.guru/#0_6_*_*_1
+    - cron: "0 6 * * 1"
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v5
+
+      # Cache to reduce stress/rate-limits and speed up runs
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Lychee broken link checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        # env:
+          # GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          fail: false
+          jobSummary: true
+          args: >
+            --verbose
+            --no-progress
+            --cache
+            --max-cache-age 7d
+            --max-concurrency 8
+            --timeout 20
+            --max-retries 4
+            --retry-wait-time 2
+            --max-redirects 10
+            --accept '200..=299,403,429'
+            README.md
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=now::$(date +'%d-%m-%Y')"
+
+      - name: Create issue when fail
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Automated Link Checker Report for ${{ steps.date.outputs.now }}
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
