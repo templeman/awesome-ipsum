@@ -98,7 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cheeseburger Ipsum](http://cheeseburgeripsum.com/) - Cheeseburgers know that what you want can also be what you need.
 - [Coffee Ipsum](http://coffeeipsum.com/) - Give your project a caffeine kick. `HTML`
 - [Cupcake Ipsum](https://cupcakeipsum.com/) - The sweetest ipsum.
-- [Liquor Ipsum](http://liquoripsum.com/) - A stiffer lorem ipsum generator.
+- [Liquor Ipsum](https://liquoripsum.com/) - A stiffer lorem ipsum generator.
 - [Pizza Ipsum](https://pizzaipsum.com) - Ipsum hot from the oven.
 - [Tuna Ipsum](https://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
 - [Wine Ipsum](https://www.wineipsum.com/) - In vino veritas.
@@ -108,7 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Bavaria Ipsum](http://bavaria-ipsum.de/) - Ein bairischer Blindtext-Generator. `lang-German`
 - [Bogan Ipsum](https://boganipsum.com.au/) - This is apparently an Australian/New Zealand slang term for a [boorish person](https://en.wikipedia.org/wiki/Bogan).
-- [Durham Ipsum](http://durhamipsum.com/) - Ipsum from Durham, North Carolina. `Polysource`
+- [Durham Ipsum](https://durhamipsum.com/) - Ipsum from Durham, North Carolina. `Polysource`
 - [Gangsta Lorem Ipsum](https://lorizzle.nl/) - Fo shizzle.
 - [Hillbilly Ipsum](http://hillbillyipsum.com/) - Ain't laid an egg since way last spring.
 - [Hipster Ipsum](http://hipsum.co/) - Artisanal filler text for your site or project. `API`
@@ -175,7 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Any Ipsum](https://wordpress.org/plugins/any-ipsum/) - WordPress plugin to roll your own custom lorem ipsum generator. [Source on GitHub](https://github.com/petenelson/wp-any-ipsum).
 - [aozora](https://github.com/fand/aozora) - CLI that can pull full text from [Aozora Bunko(青空文庫)](https://www.aozora.gr.jp/). `npm` `GitHub` `lang-Japanese`
-- [Emmet](https://docs.emmet.io/abbreviations/lorem-ipsum/) - Plugin available for [all these editors](http://emmet.io/download/).
+- [Emmet](https://docs.emmet.io/abbreviations/lorem-ipsum/) - Plugin available for [all these editors](https://emmet.io/download/).
 - [LittleIpsum](https://apps.apple.com/ca/app/littleipsum/id405772121) - Tiny, standalone Latin text generator for OS X.
 - [Sublime Text Packages](https://packagecontrol.io/search/ipsum) - Placeholder packages for Sublime Text.
 - [RoughDraft.js](http://ndreckshage.github.io/roughdraft.js/) ([repo](https://github.com/ndreckshage/roughdraft.js)) - Quickly create an interactive HTML mock-up, with minimal html markup and no server side code.
