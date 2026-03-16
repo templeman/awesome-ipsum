@@ -52,6 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Lorem 2](https://lorem2.com/) - Static lorem ipsum.
 - [Lorem Ipsum](https://www.lipsum.com/) - The Original.
 - [Lorem Ipsum Generator](http://www.loremipsumgenerator.org/) - Generates standard lorem ipsum.
+- [Lorem Ipsum Generator App](https://loremipsumgenerator.app/) - Generate Lorem Ipsum in 20+ languages available, structure output in HTML or Markdown, download as text or pdf. `HTML`, `Markdown`, `lang-French`, `lang-Spanish`, `lang-German`, `lang-Portuguese`, `lang-Russian`, `lang-Greek`
 - [Lorem Markdown](http://jaspervdj.be/lorem-markdownum/) - Generates text structured with markdown. `Markdown` `API` `GitHub`
 - [Loripsum](http://www.loripsum.net/) - Full-featured generator of standard lorem ipsum. `HTML` `API`
 - [The Amazing Lorem Ipsum Generator](http://www.i-r-genius.com/lipsum.html) - Classic lorem ipsum generator with a number of formatting options.
