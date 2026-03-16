@@ -166,7 +166,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Samuel L. Ipsum](https://slipsum.com/) - Featuring Samuel L. Jackson.
 - [Star Trek Ipsum](https://vlad-saling.github.io/star-trek-ipsum/) - Featuring handpicked quotes from the television series <i>Star Trek: The Next Generation</i>. `GitHub` `HTML`
 - [Stranger Ipsum](https://stranger-ipsum.robertcooper.me/) - Featuring quotes from the Netflix series <i>Stranger Things</i>. `GitHub`
-- [TV Ipsum](http://www.tvipsum.org/) - Featuring mash-ups sourced from a number of hit cartoon or sci-fi TV shows. `Polysource`
 
 
 ## :wrench: Tools, Apps, and Extensions
