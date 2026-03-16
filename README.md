@@ -134,7 +134,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Fyre Ipsum](https://fyreipsum.com/) - Sourced from the Fyre Festival pitch deck (with a little Magnises thrown in).
 - [Gothic Ipsum](http://gothicipsum.com) - A dreadful Lorem Ipsum generator.
 - [Ipsum Generator](https://ipsum.ecxol.net/) - Offers option to pepper original lorem ipsum with different flavoring. `lang-French` `Polysource`
-- [Japanese Ipsum (日本語 Ipsum)](https://nihongoipsum.com/) - Generates Japanese text, including hiragana, katakana, and kanji. `lang-Japanese`
 - [Mattress Ipsum](https://craig1123.github.io/mattress-ipsum/) - The most comfortable Lorem Ipsum Generator. Snuggle in! `GitHub` `NPM`
 - [Metaphorpsum](http://metaphorpsum.com/) - A wise– if perhaps slightly pedantic– generator of metaphor. `GitHub` `API`
 - [Modernipsum](http://www.modernipsum.com/) - An artier lorem ipsum generator.
