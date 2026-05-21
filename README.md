@@ -157,7 +157,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Gosling Ipsum](http://www.rygo-ipsum.com/) - Featuring quotes from Ryan Gosling characters. `GitHub`
 - [Grey's Anatomy Lorem Ipsum Generator](https://greysanatomyloremipsum.netlify.app/) - Featuring words from the long-running ABC series. `GitHub`
 - [Heisenburg Ipsum](https://heisenbergipsum.com/) - Featuring various characters from the TV show <i>Breaking Bad</i>. `Polysource`
-- [Jeffsum](http://jeffsum.com/) - Featuring Jeff Goldblum.
 - [Vole Text Generator](https://vole.wtf/text-generator/) - Featuring TV theme songs.
 - [Neah](http://nckg.github.io/neah/) - Featuring quotes from Arnold Schwarzenegger characters. `GitHub` `NPM`
 - [Partridge Ipsum](https://parall.ax/partridge-ipsum) - Featuring Alan Partridge.
