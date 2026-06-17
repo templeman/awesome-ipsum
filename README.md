@@ -136,6 +136,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Monocle Ipsum](http://www.monocleipsum.com/) `GitHub`
 - [Office Ipsum](http://officeipsum.com/) - Let's crank out some copy.
 - [Robot Ipsum](http://robotipsum.github.io/) - Mechanically Modern Material Made Mostly For Mankind.
+- [Space Ipsum](https://space-ipsum.pages.dev) - Mysterious text beamed down from distant galaxies.
 - [The Rational Placeholder Text Generator](https://www.boom-online.co.uk/lorem-ipsum/) - Enter a topic of your choice and this generator will fetch relevant content from Wikipedia.
 - [Time Cube Ipsum](http://www.timecubeipsum.com/) - You can not comprehend the actual ipsum in a single rotation of Earth.
 - [Video Game Ipsum](https://videogameipsum.netlify.app/) - Gaming themed placeholder text. `GitHub`
