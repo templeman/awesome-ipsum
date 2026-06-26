@@ -28,7 +28,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 | Tag           | Attribute                                            |
 | ------------- | -------------                                        |
-| `AJAX`        | Supports cross-domain AJAX requests                  |
 | `API`         | Associated API                                       |
 | `GitHub`      | Associated GitHub repo                               |
 | `HTML`        | Option to include HTML tags with output              |
