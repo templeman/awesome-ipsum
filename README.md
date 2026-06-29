@@ -81,7 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### :microphone: Music
 
-- [Dylan Ipsum](https://brody.fyi/tools/dylan-ipsum) - Featuring lyrics from Bob Dylan's extensive catalogue. `GitHub` `HTML` `NPM`
+- [Dylan Ipsum](https://brody.fyi/works/side-quests/dylan-ipsum) - Featuring lyrics from Bob Dylan's extensive catalogue. `GitHub` `HTML` `NPM`
 - [Nickelback Ipsum](https://nickelback-ipsum.com) - Nickelback lyrics ipsum text. `GitHub`
 - [Rush Ipsum](https://rushipsum.herokuapp.com) - Lorem Ipsum…with a 1000% more Rush. `GitHub`
 
