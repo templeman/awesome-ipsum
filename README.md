@@ -41,6 +41,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## :briefcase: Practical
 
 - [Adhesiontext](https://adhesiontext.com/) - Unique generator can serve up words that only include specified characters. `lang-French` `lang-German` `lang-Spanish` `lang-Catalan` `lang-Portuguese` `lang-Dutch` `lang-Turkish` `lang-Slovene`
+- [Adwatak Arabic Lorem Ipsum](https://adwatak.cloud/tools/arabic-lorem) - Arabic placeholder text generator using real classical Arabic words (30-50 words per paragraph), works offline in the browser, supports 1-20 paragraphs. `lang-Arabic`
 - [Blind Text Generator](https://www.blindtextgenerator.com/lorem-ipsum) - Choose from various flavors of traditional dummy text. `HTML` `Polysource` `lang-Russian` `lang-Czech` `lang-Italian` `lang-Spanish` `lang-French` `lang-German`
 - [CorporateLorem](https://corporatelorem.woblick.dev/) - Lorem Ipsum with real articles from newspapers and blogs. `GitHub` `API` `JSON`
 - [Dummy Text Generator](https://www.dummytextgenerator.com/) - Regular generator with some special options like headings and subheadings.
