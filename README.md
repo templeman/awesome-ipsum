@@ -93,6 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cheeseburger Ipsum](http://cheeseburgeripsum.com/) - Cheeseburgers know that what you want can also be what you need.
 - [Coffee Ipsum](http://coffeeipsum.com/) - Give your project a caffeine kick. `HTML`
 - [Cupcake Ipsum](https://cupcakeipsum.com/) - The sweetest ipsum.
+- [Lasagna Ipsum](https://lasagna-ipsum.netlify.app) - Layers of delicious placeholder text. `API` `GitHub` `HTML` `JSON`
 - [Liquor Ipsum](https://liquoripsum.com/) - A stiffer lorem ipsum generator.
 - [Pizza Ipsum](https://pizzaipsum.com) - Ipsum hot from the oven.
 - [Tuna Ipsum](https://tunaipsum.com) - A Fishier Lorem Ipsum Generator.
