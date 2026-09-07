@@ -148,7 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bluth Ipsum](https://bluthipsum.com/) - Featuring the family from <i>Arrested Development</i>.
 - [DeLorean Ipsum](https://satoristudio.net/delorean-ipsum/) - Based on the <i>Back to the Future</i> films. `GitHub`
 - [DevLorem](https://devlorem.woblick.dev/) - Featuring various actors like Jim Carrey, Morgan Freeman and others. `GitHub` `API` `JSON`
-- [Forcem Ipsum](https://forcemipsum.com/) - May the Ipsum be with you. `API` `GitHub` `NPM`
+- [Forcem Ipsum](https://www.forcemipsum.com/) - May the Ipsum be with you. `API` `GitHub` `NPM`
 - [Godfather Ipsum](https://godfatheripsum.github.io) - Leave the gun. Take the ipsum. `GitHub`
 - [Gosling Ipsum](http://www.rygo-ipsum.com/) - Featuring quotes from Ryan Gosling characters. `GitHub`
 - [Grey's Anatomy Lorem Ipsum Generator](https://greysanatomyloremipsum.netlify.app/) - Featuring words from the long-running ABC series. `GitHub`
