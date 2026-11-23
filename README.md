@@ -41,6 +41,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## :briefcase: Practical
 
 - [Adhesiontext](https://adhesiontext.com/) - Unique generator can serve up words that only include specified characters. `lang-French` `lang-German` `lang-Spanish` `lang-Catalan` `lang-Portuguese` `lang-Dutch` `lang-Turkish` `lang-Slovene`
+- [Best Latest Apps Lorem Ipsum](https://bestlatestapps.com/tools/lorem-ipsum/) - Classic lorem ipsum as paragraphs, sentences, words or list items, starting with the traditional opening. `HTML`
 - [Blind Text Generator](https://www.blindtextgenerator.com/lorem-ipsum) - Choose from various flavors of traditional dummy text. `HTML` `Polysource` `lang-Russian` `lang-Czech` `lang-Italian` `lang-Spanish` `lang-French` `lang-German`
 - [CorporateLorem](https://corporatelorem.woblick.dev/) - Lorem Ipsum with real articles from newspapers and blogs. `GitHub` `API` `JSON`
 - [Faux Texte](https://www.faux-texte.com/) - French lorem ipsum generator with options to choose from various styles. `HTML` `lang-French` `Polysource`
